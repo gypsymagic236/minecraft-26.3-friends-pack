@@ -93,7 +93,11 @@ These are installed on the server. **Do not put them in your Minecraft resource-
 | Status and convenience | AFK Display, Clumps, Durability Ping, Health Indicator, Multiplayer Sleep, Real Time Clock, Silence Mobs, Simple Revive, Spawn Animations, Spawning Spheres, Track Raw Statistics, Track Statistics, Villager Death Messages, Wandering Trader Announcements |
 | Server guide | Welcome Guide (the join message and `/trigger mcguide`) |
 
-The four server plugins are **NeatSort**, **SmartStash**, **VeinMiner**, and **Excavating Enchant**. All sorting is manual. The table above covers the main commands and controls; other packs mainly change recipes, drops, displays, or automatic behavior.
+The server plugins are **NeatSort**, **SmartStash**, **VeinMiner**, **Excavating Enchant**, and the waypoint renaming helper. All sorting is manual. The table above covers the main commands and controls; other packs mainly change recipes, drops, displays, or automatic behavior.
+
+### Vanilla Tweaks datapacks
+
+The server uses **39 [Vanilla Tweaks datapacks](https://vanillatweaks.net/picker/datapacks/)** from the list above. Examples include **Back, Homes, and TPA** for travel; **Timber, Armor Statues, and Fast Leaf Decay** for building; **Double Shulker Shells and Dragon Drops** for loot; and **Multiplayer Sleep, AFK Display, and Coordinates HUD** for convenience. Vanilla Tweaks explains each pack in its picker.
 
 ## Credits and updates
 
