@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1176" height="310" viewBox="0 0 1176 310" role="img" aria-labelledby="title desc">
   <title id="title">Connect to the Minecraft server with Tailscale</title>
-  <desc id="desc">Three illustrated steps: install Tailscale and sign in, accept Darren's private invitation, then add the private server address in Minecraft Java Edition.</desc>
+  <desc id="desc">Three illustrated steps: install Tailscale and sign in, accept Darren's private invitation, then add the private server address with port 25565 in Minecraft Java Edition.</desc>
   <rect width="1176" height="310" rx="20" fill="#101720"/>
   <g font-family="Arial, Helvetica, sans-serif">
     <g transform="translate(16 16)">
@@ -46,7 +46,7 @@
       <text x="184" y="102" text-anchor="middle" font-size="17" font-weight="700" fill="#fff">Edit Server Info</text>
       <text x="40" y="133" font-size="12" fill="#ddd">Server Address</text>
       <rect x="40" y="143" width="288" height="31" fill="#111" stroke="#aaa"/>
-      <text x="51" y="163" font-size="12" fill="#eee">Paste address from Darren</text>
+      <text x="51" y="163" font-size="12" fill="#eee">private-address:25565</text>
       <rect x="117" y="187" width="134" height="26" fill="#777" stroke="#bbb"/>
       <text x="184" y="205" text-anchor="middle" font-size="13" fill="#fff">Done</text>
       <text x="20" y="258" font-size="14" fill="#c8d6e3">Multiplayer → Add Server</text>
