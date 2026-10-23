@@ -26,18 +26,14 @@ Type commands in Minecraft chat (press **T**). **Sneak** means your normal sneak
 | VeinMiner | **Sneak while mining ore**; up to 32 connected ore blocks; each block uses tool durability |
 | Excavating | **Sneak with an Excavating-enchanted pickaxe or shovel** to mine a 3 × 3 × 3 area; each block uses durability |
 | Timber | Break a tree with an axe **while standing** to fell it; leaves clear and saplings drop as items |
-| Waypoint markers | `/trigger waypoint` opens personal and global markers; marker teleporting is disabled |
-| Rename a waypoint | Stand within 4 blocks and type `/wpname <new name>`; no name tag or cost |
+| Waypoint markers | `/trigger waypoint` opens personal and global markers |
+| Rename a waypoint | Stand within 4 blocks and type `/wpname <new name>`; free to rename |
 | Crafted Waystones | Craft and place a Waystone, then use it to travel to another in the **same dimension** |
 | Set and use your one home | `/trigger sethome` and `/trigger homes` |
 | Return to a previous location | `/trigger back`; after a final death it returns to the death location |
-| Go to spawn | `/trigger spawn` |
 | Request player teleport | Type `/trigger tpa set `, press **Tab** to see player IDs, then enter the chosen ID |
 | Revive a friend | **Sneak near** a glowing, downed player for 2 seconds; you have 45 seconds before they die |
 | Toggle the coordinates HUD | `/trigger ch_toggle`; `/trigger ch_help` shows its options |
-| View elapsed server time | `/trigger rc_display` |
-| Armor Statues help | `/trigger as_help`; its craftable **Statues** book has the pose controls |
-| Calculate Nether portal coordinates | In the Overworld, `/trigger nc_inOverworld`; in the Nether, `/trigger nc_inNether` |
 
 Waystones are public by default, free to use after crafting, unlimited per player, and anyone can break a placed one. The recipe uses **1 Lodestone, 1 Eye of Ender, 2 Amethyst Shards, and 3 matching base blocks**. Other travel commands are instant and have no cooldown.
 
