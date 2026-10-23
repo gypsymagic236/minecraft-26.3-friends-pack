@@ -77,6 +77,7 @@ The Better Waypoints video shows its full feature set; this server uses its mark
 - Health appears below player names. Low durability gives an action-bar warning and sound for held gear and armor.
 - Villager deaths are announced with coordinates; nearby wandering traders are announced; idle players appear gray.
 - Mobs have spawn animations and sounds. Players can crawl while downed.
+- [Clumps](https://modrinth.com/datapack/ly-clumps) combines nearby experience orbs to reduce lag. Instant XP pickup is off so Mending works normally.
 
 <p><a href="https://modrinth.com/datapack/spawn-animations"><img src="https://i.imgur.com/X8A0UY9.gif" alt="A Stray digging out of the ground as it spawns" width="250"></a><br><a href="https://modrinth.com/datapack/spawn-animations">Spawn Animations</a></p>
 
@@ -89,13 +90,13 @@ These are installed on the server. **Do not put them in your Minecraft resource-
 | Travel and finding places | Back, Better Waypoints (markers only), Coordinates HUD, Custom Nether Portals, Elevators, Homes, Nether Portal Coords, Spawn, TPA, crafted Waystones |
 | Mining, building, and farming | Armor Statues, Armored Elytra, Cauldron Concrete, Cauldron Mud, Chunk Loaders, Fast Leaf Decay, Glass Always Drops, More Effective Tools, Painting Picker, Redstone Rotation Wrench, Silk Touch Budding Amethyst, Timber, Villager Workstation Highlights, Wood Stripper, XP Bottling |
 | Drops and recipes | Double Shulker Shells, Dragon Drops, Ender Chest Always Drops, Husks Drop Sand, Kill Empty Boats, Unlock All Recipes |
-| Status and convenience | AFK Display, Durability Ping, Health Indicator, Multiplayer Sleep, Real Time Clock, Silence Mobs, Simple Revive, Spawn Animations, Spawning Spheres, Track Raw Statistics, Track Statistics, Villager Death Messages, Wandering Trader Announcements |
+| Status and convenience | AFK Display, Clumps, Durability Ping, Health Indicator, Multiplayer Sleep, Real Time Clock, Silence Mobs, Simple Revive, Spawn Animations, Spawning Spheres, Track Raw Statistics, Track Statistics, Villager Death Messages, Wandering Trader Announcements |
 | Server guide | Welcome Guide (the join message and `/trigger mcguide`) |
 
 The four server plugins are **NeatSort**, **SmartStash**, **VeinMiner**, and **Excavating Enchant**. All sorting is manual. The table above covers the main commands and controls; other packs mainly change recipes, drops, displays, or automatic behavior.
 
 ## Credits and updates
 
-The downloadable visual pack is customized from [Vanilla Tweaks](https://vanillatweaks.net/). It is free. See [their terms](https://vanillatweaks.net/terms/) and the `credits.txt` inside the ZIP. Server features come from [Vanilla Tweaks datapacks](https://vanillatweaks.net/picker/datapacks/) and the linked projects: [NeatSort](https://modrinth.com/project/ZgbYoHqH), [SmartStash](https://modrinth.com/project/XYbeLI5P), [VeinMiner](https://modrinth.com/project/OhduvhIc), [Excavating Enchant](https://modrinth.com/project/pKiI1vdn), [Better Waypoints](https://modrinth.com/datapack/better-waypoints), [Waystones](https://modrinth.com/project/UKUcgltR), [Simple Revive](https://modrinth.com/project/x1IFRoPF), [Spawn Animations](https://modrinth.com/project/zrzYrlm0), and [Health Indicator](https://modrinth.com/project/hxaUKE37).
+The downloadable visual pack is customized from [Vanilla Tweaks](https://vanillatweaks.net/). It is free. See [their terms](https://vanillatweaks.net/terms/) and the `credits.txt` inside the ZIP. Server features come from [Vanilla Tweaks datapacks](https://vanillatweaks.net/picker/datapacks/) and the linked projects: [NeatSort](https://modrinth.com/project/ZgbYoHqH), [SmartStash](https://modrinth.com/project/XYbeLI5P), [VeinMiner](https://modrinth.com/project/OhduvhIc), [Excavating Enchant](https://modrinth.com/project/pKiI1vdn), [Better Waypoints](https://modrinth.com/datapack/better-waypoints), [Waystones](https://modrinth.com/project/UKUcgltR), [Simple Revive](https://modrinth.com/project/x1IFRoPF), [Spawn Animations](https://modrinth.com/project/zrzYrlm0), [Health Indicator](https://modrinth.com/project/hxaUKE37), and [Clumps](https://modrinth.com/datapack/ly-clumps).
 
 When the host posts an updated pack, download the latest release and replace the old ZIP in your resource-packs folder. Your world saves and server datapacks stay on the server.
