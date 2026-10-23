@@ -47,9 +47,9 @@ Type commands in Minecraft chat (press **T**). **Sneak** means your normal sneak
 | Set and use your one home | `/trigger sethome` and `/trigger homes` |
 | Return to a previous location | `/trigger back`; after a final death it returns to the death location |
 
-Waystones are public by default, free to use after crafting, unlimited per player, and anyone can break a placed one. The recipe uses **1 Lodestone, 1 Eye of Ender, 2 Amethyst Shards, and 3 matching base blocks**. Other travel commands are instant and have no cooldown.
+Waystones are public by default, free to use after crafting, unlimited per player, and anyone can break a placed one. The recipe uses **1 [Lodestone](https://minecraft.wiki/w/Lodestone), 1 [Eye of Ender](https://minecraft.wiki/w/Eye_of_Ender), 2 [Amethyst Shards](https://minecraft.wiki/w/Amethyst_Shard), and 3 matching base blocks**. Other travel commands are instant and have no cooldown.
 
-**Base blocks:** Andesite, Sandstone, Nether Bricks, Mossy Stone Bricks, Cobbled Deepslate, Copper Block, Prismarine Bricks, Tuff, Red Sandstone, or Quartz Block.
+**Base blocks:** [Andesite](https://minecraft.wiki/w/Andesite), [Sandstone](https://minecraft.wiki/w/Sandstone), [Nether Bricks](https://minecraft.wiki/w/Nether_Bricks), [Mossy Stone Bricks](https://minecraft.wiki/w/Mossy_Stone_Bricks), [Cobbled Deepslate](https://minecraft.wiki/w/Cobbled_Deepslate), [Copper Block](https://minecraft.wiki/w/Copper_block), [Prismarine Bricks](https://minecraft.wiki/w/Prismarine_bricks), [Tuff](https://minecraft.wiki/w/Tuff), [Red Sandstone](https://minecraft.wiki/w/Red_Sandstone), or [Quartz Block](https://minecraft.wiki/w/Blocks_of_quartz).
 
 | [Better Waypoints](https://modrinth.com/datapack/better-waypoints) | [Waystones](https://modrinth.com/project/UKUcgltR) |
 | :---: | :---: |
