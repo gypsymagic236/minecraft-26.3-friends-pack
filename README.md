@@ -77,7 +77,6 @@ The Better Waypoints video shows its full feature set; this server uses its mark
 - Health appears below player names. Low durability gives an action-bar warning and sound for held gear and armor.
 - Villager deaths are announced with coordinates; nearby wandering traders are announced; idle players appear gray.
 - Mobs have spawn animations and sounds. Players can crawl while downed.
-- Survival difficulty is **Normal**, PvP is off, and items drop on death.
 
 <p><a href="https://modrinth.com/datapack/spawn-animations"><img src="https://i.imgur.com/X8A0UY9.gif" alt="A Stray digging out of the ground as it spawns" width="250"></a><br><a href="https://modrinth.com/datapack/spawn-animations">Spawn Animations</a></p>
 
