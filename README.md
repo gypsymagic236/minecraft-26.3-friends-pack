@@ -17,7 +17,7 @@
 In Minecraft, open **Options → Resource Packs → Open Pack Folder**, put the ZIP there **without extracting it**, and move it into the active column.
 
 > [!TIP]
-> **You're ready to play. You can stop reading here.** Everything below is an optional reference for goals, controls, and server features.
+> **You're ready to play. You can stop reading here.** Everything below is an optional reference for mods, commands, and server features.
 
 ---
 
