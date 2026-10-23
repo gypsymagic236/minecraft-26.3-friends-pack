@@ -22,11 +22,11 @@ The welcome guide appears every time you join; type `/trigger mcguide` to see it
 
 ---
 
-## More to explore (optional)
+## More Details
 
-**Jump to:** [Goals](#things-to-work-toward) · [Controls](#controls-and-commands) · [Automatic features](#things-that-happen-automatically) · [Installed packs](#server-datapacks-and-plugins)
+**Jump to:** [Progression Guide Mod](#progression-guide-mod) · [Controls](#controls-and-commands) · [Automatic features](#things-that-happen-automatically) · [Installed packs](#server-datapacks-and-plugins)
 
-### Things to work toward
+### Progression Guide Mod
 
 Press **L** (or your Advancements key) to browse [BlazeandCave's Advancements Pack](https://modrinth.com/datapack/blazeandcaves-advancements-pack). Its themed tabs offer goals for mining, building, exploring, farming, the Nether, the End, and more. **Progress is shared:** when one of us completes a goal, it counts for everyone. The pack is on the server, so there is nothing to download. Bonus item and XP rewards are off.
 
