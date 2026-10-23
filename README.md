@@ -33,6 +33,15 @@ Type commands in Minecraft chat (press **T**). **Sneak** means your normal sneak
 | Excavating | **Sneak with an Excavating-enchanted pickaxe or shovel** to mine a 3 × 3 × 3 area; each block uses durability |
 | Timber | Break a tree with an axe **while standing** to fell it; leaves clear and saplings drop as items |
 
+<details>
+<summary>Watch the mining demos (GIFs)</summary>
+
+<p>These show the effects. On this server, hold <strong>Sneak</strong> to activate VeinMiner or Excavating.</p>
+<p><a href="https://modrinth.com/project/OhduvhIc"><img src="https://cdn.modrinth.com/data/OhduvhIc/images/f4c0ad7fa3b8b579753c1f757e80151798717c68.gif" alt="VeinMiner breaking a connected ore vein" width="260"></a><br>VeinMiner — <a href="https://modrinth.com/project/OhduvhIc">creator page</a></p>
+<p><a href="https://modrinth.com/project/pKiI1vdn"><img src="https://cdn.modrinth.com/data/pKiI1vdn/images/f1f300f8855d1a8f469dd418a193089d723c2453.gif" alt="Excavating enchant mining a larger area" width="260"></a><br>Excavating — <a href="https://modrinth.com/project/pKiI1vdn">creator page</a></p>
+
+</details>
+
 ### Travel and waypoints
 
 | Feature | What to do |
@@ -66,6 +75,13 @@ Waystones are public by default, free to use after crafting, unlimited per playe
 - Villager deaths are announced with coordinates; nearby wandering traders are announced; idle players appear gray.
 - Mobs have spawn animations and sounds. Players can crawl while downed.
 - Survival difficulty is **Normal**, PvP is off, and items drop on death.
+
+<details>
+<summary>Watch a mob dig out of the ground (GIF)</summary>
+
+<p><a href="https://modrinth.com/datapack/spawn-animations"><img src="https://i.imgur.com/X8A0UY9.gif" alt="A Stray digging out of the ground as it spawns" width="260"></a><br>Spawn Animations — <a href="https://modrinth.com/datapack/spawn-animations">creator page</a></p>
+
+</details>
 
 ## Server datapacks and plugins
 
