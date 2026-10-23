@@ -51,9 +51,9 @@ Waystones are public by default, free to use after crafting, unlimited per playe
 
 **Base blocks:** Andesite, Sandstone, Nether Bricks, Mossy Stone Bricks, Cobbled Deepslate, Copper Block, Prismarine Bricks, Tuff, Red Sandstone, or Quartz Block.
 
-| [Better Waypoints video](https://youtu.be/mzh78_l_LIQ) | [Waystones video](https://youtu.be/QDvdj5lfnIY) | [Waystones crafting GIF](https://modrinth.com/project/UKUcgltR) |
+| [Better Waypoints demo page](https://modrinth.com/datapack/better-waypoints) | [Waystones demo page](https://modrinth.com/project/UKUcgltR) | [Waystones crafting GIF](https://modrinth.com/project/UKUcgltR) |
 | :---: | :---: | :---: |
-| <a href="https://youtu.be/mzh78_l_LIQ"><img src="https://i.ytimg.com/vi/mzh78_l_LIQ/hqdefault.jpg" alt="Watch the Better Waypoints creator demo" width="250"></a> | <a href="https://youtu.be/QDvdj5lfnIY"><img src="https://i.ytimg.com/vi/QDvdj5lfnIY/hqdefault.jpg" alt="Watch the Waystones creator demo" width="250"></a> | <a href="https://modrinth.com/project/UKUcgltR"><img src="https://cdn.modrinth.com/data/cached_images/c39228a4b7442b35dfce064f78c56fc180500d28.gif" alt="Waystones crafting recipes" width="250"></a> |
+| <a href="https://modrinth.com/datapack/better-waypoints"><img src="https://i.ytimg.com/vi/mzh78_l_LIQ/hqdefault.jpg" alt="Open the Better Waypoints creator page with its demo video" width="250"></a> | <a href="https://modrinth.com/project/UKUcgltR"><img src="https://i.ytimg.com/vi/QDvdj5lfnIY/hqdefault.jpg" alt="Open the Waystones creator page with its demo video" width="250"></a> | <a href="https://modrinth.com/project/UKUcgltR"><img src="https://cdn.modrinth.com/data/cached_images/c39228a4b7442b35dfce064f78c56fc180500d28.gif" alt="Waystones crafting recipes" width="250"></a> |
 
 The Better Waypoints video shows its full feature set; this server uses its markers, while crafted Waystones handle travel.
 
