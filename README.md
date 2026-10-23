@@ -1,12 +1,11 @@
 # Minecraft 26.3 friends guide
 
-Join our Minecraft Java 26.3 survival server with Tailscale. Gameplay packs run on the server, so **you do not need to install mods or datapacks**. The resource pack is optional.
-
-**Jump to:** [Get started](#get-started) · [Goals](#things-to-work-toward) · [Controls](#controls-and-commands) · [Automatic features](#things-that-happen-automatically) · [Installed packs](#server-datapacks-and-plugins)
-
 ## Get started
 
-Darren will privately send you a **Tailscale invitation** and the **server address**. The invitation shares only the server PC, not Darren's other devices. [How Tailscale sharing works](https://tailscale.com/docs/features/sharing)
+> [!TIP]
+> **Just joining? This is the only section you need.** The gameplay packs run on the server, so you do not need to install mods or datapacks.
+
+Darren will privately send you a **Tailscale invitation** and the **server address**. The invitation shares only the server PC, not Darren's other devices. [How sharing works](https://tailscale.com/docs/features/sharing)
 
 ![Three illustrated steps: install and sign in to Tailscale, accept Darren's invitation, then add the private address with port 25565 in Minecraft](images/connect-with-tailscale.svg)
 
@@ -14,9 +13,15 @@ Darren will privately send you a **Tailscale invitation** and the **server addre
 2. Open Darren's invitation link and select **Accept**. Keep Tailscale **connected**.
 3. Launch **Minecraft: Java Edition 26.3**. Open **Multiplayer → Add Server**. Enter Darren's private Tailscale address **with `:25565` at the end** (for example, `100.x.y.z:25565`), then join. The server PC and game server must be on.
 
-**Optional matching visuals:** Download the [Friends Survival resource pack](https://github.com/gypsymagic236/minecraft-26.3-friends-pack/releases/latest/download/Friends-Survival-26.3.zip). In Minecraft, open **Options → Resource Packs → Open Pack Folder**, put the ZIP there **without extracting it**, and move it into the active column.
+**You're ready to play.** The welcome guide appears every time you join; type `/trigger mcguide` to see it again.
 
-The welcome guide appears every time you join; type `/trigger mcguide` to see it again.
+---
+
+**Explore later:** [Optional visuals](#optional-resource-pack) · [Goals](#things-to-work-toward) · [Controls](#controls-and-commands) · [Automatic features](#things-that-happen-automatically) · [Installed packs](#server-datapacks-and-plugins)
+
+## Optional resource pack
+
+For matching visuals, download the [Friends Survival resource pack](https://github.com/gypsymagic236/minecraft-26.3-friends-pack/releases/latest/download/Friends-Survival-26.3.zip). In Minecraft, open **Options → Resource Packs → Open Pack Folder**, put the ZIP there **without extracting it**, and move it into the active column.
 
 ## Things to work toward
 
