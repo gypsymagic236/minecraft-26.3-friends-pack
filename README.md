@@ -13,17 +13,20 @@ Darren will privately send you a **Tailscale invitation** and the **server addre
 2. Open Darren's invitation link and select **Accept**. Keep Tailscale **connected**.
 3. Launch **Minecraft: Java Edition 26.3**. Open **Multiplayer → Add Server**. Enter Darren's private Tailscale address **with `:25565` at the end** (for example, `100.x.y.z:25565`), then join. The server PC and game server must be on.
 
-**You're ready to play.** The welcome guide appears every time you join; type `/trigger mcguide` to see it again.
+**Optional resource pack:** For matching visuals, download the [Friends Survival resource pack](https://github.com/gypsymagic236/minecraft-26.3-friends-pack/releases/latest/download/Friends-Survival-26.3.zip). In Minecraft, open **Options → Resource Packs → Open Pack Folder**, put the ZIP there **without extracting it**, and move it into the active column.
+
+The welcome guide appears every time you join; type `/trigger mcguide` to see it again.
+
+> [!TIP]
+> **You're ready to play. You can stop reading here.** Everything below is an optional reference for goals, controls, and server features.
 
 ---
 
-**Explore later:** [Optional visuals](#optional-resource-pack) · [Goals](#things-to-work-toward) · [Controls](#controls-and-commands) · [Automatic features](#things-that-happen-automatically) · [Installed packs](#server-datapacks-and-plugins)
+## More to explore (optional)
 
-## Optional resource pack
+**Jump to:** [Goals](#things-to-work-toward) · [Controls](#controls-and-commands) · [Automatic features](#things-that-happen-automatically) · [Installed packs](#server-datapacks-and-plugins)
 
-For matching visuals, download the [Friends Survival resource pack](https://github.com/gypsymagic236/minecraft-26.3-friends-pack/releases/latest/download/Friends-Survival-26.3.zip). In Minecraft, open **Options → Resource Packs → Open Pack Folder**, put the ZIP there **without extracting it**, and move it into the active column.
-
-## Things to work toward
+### Things to work toward
 
 Press **L** (or your Advancements key) to browse [BlazeandCave's Advancements Pack](https://modrinth.com/datapack/blazeandcaves-advancements-pack). Its themed tabs offer goals for mining, building, exploring, farming, the Nether, the End, and more. **Progress is shared:** when one of us completes a goal, it counts for everyone. The pack is on the server, so there is nothing to download. Bonus item and XP rewards are off.
 
@@ -35,11 +38,11 @@ Peek at three tabs from the [creator's gallery](https://modrinth.com/datapack/bl
 
 **If a goal does not register:** Server ops can mark it complete by typing `/advancement grant @s only blazeandcave:bacap/getting_wood` in Minecraft chat. This example grants **Getting Wood**; replace `bacap/getting_wood` with the goal's ID for another advancement (use **Tab** to complete IDs). The completion is then shared with the group.
 
-## Controls and commands
+### Controls and commands
 
 Type commands in Minecraft chat (press **T**). **Sneak** means your normal sneak key, usually **Left Shift** unless you changed it.
 
-### Inventory and chests
+#### Inventory and chests
 
 | Feature | What to do |
 | --- | --- |
@@ -49,7 +52,7 @@ Type commands in Minecraft chat (press **T**). **Sneak** means your normal sneak
 | Pull everything from an open chest | **Left-click outside** its slots |
 | Put away items into an open chest | **Right-click outside** its slots to push as much as will fit |
 
-### Mining and building
+#### Mining and building
 
 | Feature | What to do |
 | --- | --- |
@@ -61,7 +64,7 @@ Type commands in Minecraft chat (press **T**). **Sneak** means your normal sneak
 | :---: | :---: |
 | <a href="https://modrinth.com/project/OhduvhIc" target="_blank" rel="noopener noreferrer"><img src="https://cdn.modrinth.com/data/OhduvhIc/images/f4c0ad7fa3b8b579753c1f757e80151798717c68.gif" alt="VeinMiner breaking a connected ore vein" width="340"></a> | <a href="https://modrinth.com/project/pKiI1vdn" target="_blank" rel="noopener noreferrer"><img src="https://cdn.modrinth.com/data/pKiI1vdn/images/f1f300f8855d1a8f469dd418a193089d723c2453.gif" alt="Excavating enchant mining a larger area" width="340"></a> |
 
-### Travel and waypoints
+#### Travel and waypoints
 
 | Feature | What to do |
 | --- | --- |
@@ -81,21 +84,21 @@ Travel commands are instant and have no cooldown. Waystones are public by defaul
 
 The Better Waypoints video shows its full feature set; this server uses its markers, while crafted Waystones handle travel.
 
-### Playing together
+#### Playing together
 
 | Feature | What to do |
 | --- | --- |
 | Request player teleport | `/tpa <playername>`; the other player uses `/tpaccept` or `/tpadeny` |
 | Revive a friend | **Sneak near** a glowing, downed player for 2 seconds; you have 45 seconds before they die |
 
-### Help and displays
+#### Help and displays
 
 | Feature | What to do |
 | --- | --- |
 | Player guide | `/trigger mcguide` |
 | Toggle the coordinates HUD | `/trigger ch_toggle`; `/trigger ch_help` shows its options |
 
-## Things that happen automatically
+### Things that happen automatically
 
 - **Sleep:** [Multiplayer Sleep](https://vanillatweaks.net/picker/datapacks/) lets one player skip the night; a sleep message appears in chat after five seconds.
 - **Status:** [Health Indicator](https://modrinth.com/datapack/health-indicator) shows health below player names. [Durability Ping](https://vanillatweaks.net/picker/datapacks/) warns about low durability on held gear and armor with an action-bar message and sound.
@@ -107,7 +110,7 @@ The Better Waypoints video shows its full feature set; this server uses its mark
 | :---: | :---: | :---: |
 | <a href="https://modrinth.com/datapack/health-indicator" target="_blank" rel="noopener noreferrer"><img src="https://cdn.modrinth.com/data/hxaUKE37/images/a851f319889e4eccdf8884fce0a294bcb54bfeaa.jpeg" alt="Health points displayed below a player's name" width="220"></a> | <a href="https://modrinth.com/datapack/player-revive" target="_blank" rel="noopener noreferrer"><img src="images/simple-revive-downed.png" alt="A glowing, downed player lying on the ground with the revive timer visible" width="220"></a> | <a href="https://modrinth.com/datapack/spawn-animations" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/X8A0UY9.gif" alt="A Stray digging out of the ground as it spawns" width="220"></a> |
 
-## Server datapacks and plugins
+### Server datapacks and plugins
 
 These features run on the server. **Do not put them in your Minecraft resource-packs folder.**
 
@@ -122,11 +125,11 @@ These features run on the server. **Do not put them in your Minecraft resource-p
 
 The server plugins are **NeatSort**, **SmartStash**, **VeinMiner**, **Excavating Enchant**, **SimpleTPA**, and the waypoint renaming helper. All sorting is manual. The table above covers the main commands and controls; other packs mainly change recipes, drops, displays, or automatic behavior.
 
-### Vanilla Tweaks datapacks
+#### Vanilla Tweaks datapacks
 
 The server uses **38 [Vanilla Tweaks datapacks](https://vanillatweaks.net/picker/datapacks/)** from the list above. Examples include **Back and Homes** for travel; **Timber, Armor Statues, and Fast Leaf Decay** for building; **Double Shulker Shells and Dragon Drops** for loot; and **Multiplayer Sleep, AFK Display, and Coordinates HUD** for convenience. Vanilla Tweaks explains each pack in its picker.
 
-## Credits and updates
+### Credits and updates
 
 The optional visual pack is customized from [Vanilla Tweaks](https://vanillatweaks.net/). See [their terms](https://vanillatweaks.net/terms/) and the `credits.txt` inside the ZIP. Server features also use [Vanilla Tweaks datapacks](https://vanillatweaks.net/picker/datapacks/) and these projects:
 
