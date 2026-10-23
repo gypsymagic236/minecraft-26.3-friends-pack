@@ -4,10 +4,17 @@ Everything you need to play on our Java Edition survival server is on this page.
 
 ## Get started
 
-1. Launch **Minecraft: Java Edition 26.3**.
-2. Ask the host for the current server address and add it under **Multiplayer → Add Server**. The address is shared privately and is not published here.
-3. For matching visuals, download [Friends Survival resource pack](https://github.com/gypsymagic236/minecraft-26.3-friends-pack/releases/latest/download/Friends-Survival-26.3.zip). In Minecraft, open **Options → Resource Packs → Open Pack Folder**, put the ZIP there **without extracting it**, and move it into the active column.
-4. Join the server. The welcome guide appears every time you join; type `/trigger mcguide` to see it again.
+Darren will privately send you a **Tailscale invitation** and the **server address**. The invitation shares only the server PC, not Darren's other devices. [How Tailscale sharing works](https://tailscale.com/docs/features/sharing)
+
+![Three illustrated steps: install and sign in to Tailscale, accept Darren's invitation, then add the private address in Minecraft](images/connect-with-tailscale.svg)
+
+1. [Install Tailscale](https://tailscale.com/download) on the computer you play on, then **sign in**.
+2. Open Darren's invitation link and select **Accept**. Keep Tailscale **connected**.
+3. Launch **Minecraft: Java Edition 26.3**. Open **Multiplayer → Add Server**, paste the address Darren sent you, then join. The server PC and game server must be on.
+
+**Optional matching visuals:** Download the [Friends Survival resource pack](https://github.com/gypsymagic236/minecraft-26.3-friends-pack/releases/latest/download/Friends-Survival-26.3.zip). In Minecraft, open **Options → Resource Packs → Open Pack Folder**, put the ZIP there **without extracting it**, and move it into the active column.
+
+The welcome guide appears every time you join; type `/trigger mcguide` to see it again.
 
 The resource pack changes visuals on your own computer; gameplay features below run on the server.
 
