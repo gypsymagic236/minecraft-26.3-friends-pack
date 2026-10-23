@@ -7,16 +7,9 @@ Everything you need to play on our Java Edition survival server is on this page.
 1. Launch **Minecraft: Java Edition 26.3**.
 2. Ask the host for the current server address and add it under **Multiplayer → Add Server**. The address is shared privately and is not published here.
 3. For matching visuals, download [Friends Survival resource pack](https://github.com/gypsymagic236/minecraft-26.3-friends-pack/releases/latest/download/Friends-Survival-26.3.zip). In Minecraft, open **Options → Resource Packs → Open Pack Folder**, put the ZIP there **without extracting it**, and move it into the active column.
-4. Optional: download the [light-level X overlay](https://github.com/gypsymagic236/minecraft-26.3-friends-pack/releases/latest/download/Optional-Light-Level-Overlay-MC26.3.zip) into the same folder. It is **off by default**. Activate it **above** the main pack only if you want X marks on dimly lit surfaces.
-5. Join the server. The welcome guide appears every time you join; type `/trigger mcguide` to see it again.
+4. Join the server. The welcome guide appears every time you join; type `/trigger mcguide` to see it again.
 
-The resource packs change visuals on your own computer; gameplay features below run on the server.
-
-### What the X overlay shows
-
-The X marks are a lighting aid for finding places to add torches or other lights. **Red** marks the darkest surfaces; **orange** and **yellow** mark progressively brighter ones. An X is **not a guarantee** that a mob can spawn there: actual spawning also depends on the block, space, dimension, and the game's rules. The overlay can cover many blocks at once, so it was separated from the main pack for anyone who finds it distracting.
-
-There is no keyboard toggle for this resource pack. To turn it on or off, use **Options → Resource Packs** and move the optional overlay between the active and available columns. Leave the main pack active if you want its other visual changes. Only your own view changes; the server and other players are unaffected.
+The resource pack changes visuals on your own computer; gameplay features below run on the server.
 
 ## Controls and commands
 
@@ -72,6 +65,6 @@ The four server plugins are **NeatSort**, **SmartStash**, **VeinMiner**, and **E
 
 ## Credits and updates
 
-The downloadable visual packs are customized from [Vanilla Tweaks](https://vanillatweaks.net/). They are free. See [their terms](https://vanillatweaks.net/terms/) and the `credits.txt` inside each ZIP. Server features come from [Vanilla Tweaks datapacks](https://vanillatweaks.net/picker/datapacks/) and the linked projects: [NeatSort](https://modrinth.com/project/ZgbYoHqH), [SmartStash](https://modrinth.com/project/XYbeLI5P), [VeinMiner](https://modrinth.com/project/OhduvhIc), [Excavating Enchant](https://modrinth.com/project/pKiI1vdn), [Better Waypoints](https://modrinth.com/datapack/better-waypoints), [Waystones](https://modrinth.com/project/UKUcgltR), [Simple Revive](https://modrinth.com/project/x1IFRoPF), [Spawn Animations](https://modrinth.com/project/zrzYrlm0), and [Health Indicator](https://modrinth.com/project/hxaUKE37).
+The downloadable visual pack is customized from [Vanilla Tweaks](https://vanillatweaks.net/). It is free. See [their terms](https://vanillatweaks.net/terms/) and the `credits.txt` inside the ZIP. Server features come from [Vanilla Tweaks datapacks](https://vanillatweaks.net/picker/datapacks/) and the linked projects: [NeatSort](https://modrinth.com/project/ZgbYoHqH), [SmartStash](https://modrinth.com/project/XYbeLI5P), [VeinMiner](https://modrinth.com/project/OhduvhIc), [Excavating Enchant](https://modrinth.com/project/pKiI1vdn), [Better Waypoints](https://modrinth.com/datapack/better-waypoints), [Waystones](https://modrinth.com/project/UKUcgltR), [Simple Revive](https://modrinth.com/project/x1IFRoPF), [Spawn Animations](https://modrinth.com/project/zrzYrlm0), and [Health Indicator](https://modrinth.com/project/hxaUKE37).
 
 When the host posts an updated pack, download the latest release and replace the old ZIP in your resource-packs folder. Your world saves and server datapacks stay on the server.
