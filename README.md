@@ -1,4 +1,4 @@
-# Minecraft 26.3 friends guide
+# Darren's Minecraft <26.3> Setup guide
 
 ## Get started
 
