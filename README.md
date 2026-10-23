@@ -73,13 +73,15 @@ The Better Waypoints video shows its full feature set; this server uses its mark
 
 ## Things that happen automatically
 
-- One player sleeping skips the night. A sleep message appears in chat after five seconds.
-- Health appears below player names. Low durability gives an action-bar warning and sound for held gear and armor.
-- Villager deaths are announced with coordinates; nearby wandering traders are announced; idle players appear gray.
-- Mobs have spawn animations and sounds. Players can crawl while downed.
+- [Multiplayer Sleep](https://vanillatweaks.net/picker/datapacks/) lets one player skip the night; a sleep message appears in chat after five seconds.
+- [Health Indicator](https://modrinth.com/datapack/health-indicator) shows health below player names. [Durability Ping](https://vanillatweaks.net/picker/datapacks/) warns about low durability on held gear and armor with an action-bar message and sound.
+- [Villager Death Messages](https://vanillatweaks.net/picker/datapacks/) announces villager deaths with coordinates; [Wandering Trader Announcements](https://vanillatweaks.net/picker/datapacks/) reports nearby arrivals; [AFK Display](https://vanillatweaks.net/picker/datapacks/) grays out idle players.
+- [Spawn Animations](https://modrinth.com/datapack/spawn-animations) makes mobs emerge with sounds. [Simple Revive](https://modrinth.com/datapack/player-revive) lets downed players crawl.
 - [Clumps](https://modrinth.com/datapack/ly-clumps) combines nearby experience orbs to reduce lag. Instant XP pickup is off so Mending works normally.
 
-<p><a href="https://modrinth.com/datapack/spawn-animations"><img src="https://i.imgur.com/X8A0UY9.gif" alt="A Stray digging out of the ground as it spawns" width="250"></a><br><a href="https://modrinth.com/datapack/spawn-animations">Spawn Animations</a></p>
+| [Health Indicator](https://modrinth.com/datapack/health-indicator) | [Simple Revive](https://modrinth.com/datapack/player-revive) | [Spawn Animations](https://modrinth.com/datapack/spawn-animations) |
+| :---: | :---: | :---: |
+| <a href="https://modrinth.com/datapack/health-indicator" target="_blank" rel="noopener noreferrer"><img src="https://cdn.modrinth.com/data/hxaUKE37/images/a851f319889e4eccdf8884fce0a294bcb54bfeaa.jpeg" alt="Health points displayed below a player's name" width="220"></a> | <a href="https://modrinth.com/datapack/player-revive" target="_blank" rel="noopener noreferrer"><img src="https://cdn.modrinth.com/data/x1IFRoPF/images/51eb0408f273fb17ebb25a49832bd0025a5be0c6_350.webp" alt="Downed player lying low and able to crawl" width="220"></a> | <a href="https://modrinth.com/datapack/spawn-animations" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/X8A0UY9.gif" alt="A Stray digging out of the ground as it spawns" width="220"></a> |
 
 ## Server datapacks and plugins
 
