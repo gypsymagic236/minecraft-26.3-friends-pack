@@ -33,7 +33,7 @@ Type commands in Minecraft chat (press **T**). **Sneak** means your normal sneak
 | Excavating | **Sneak with an Excavating-enchanted pickaxe or shovel** to mine a 3 × 3 × 3 area; each block uses durability |
 | Timber | Break a tree with an axe **while standing** to fell it; leaves clear and saplings drop as items |
 
-| [VeinMiner demo](https://modrinth.com/project/OhduvhIc) | [Excavating demo](https://modrinth.com/project/pKiI1vdn) |
+| [VeinMiner](https://modrinth.com/project/OhduvhIc) | [Excavating](https://modrinth.com/project/pKiI1vdn) |
 | :---: | :---: |
 | <a href="https://modrinth.com/project/OhduvhIc"><img src="https://cdn.modrinth.com/data/OhduvhIc/images/f4c0ad7fa3b8b579753c1f757e80151798717c68.gif" alt="VeinMiner breaking a connected ore vein" width="250"></a> | <a href="https://modrinth.com/project/pKiI1vdn"><img src="https://cdn.modrinth.com/data/pKiI1vdn/images/f1f300f8855d1a8f469dd418a193089d723c2453.gif" alt="Excavating enchant mining a larger area" width="250"></a> |
 
@@ -51,9 +51,9 @@ Waystones are public by default, free to use after crafting, unlimited per playe
 
 **Base blocks:** Andesite, Sandstone, Nether Bricks, Mossy Stone Bricks, Cobbled Deepslate, Copper Block, Prismarine Bricks, Tuff, Red Sandstone, or Quartz Block.
 
-| [Better Waypoints demo page](https://modrinth.com/datapack/better-waypoints) | [Waystones demo page](https://modrinth.com/project/UKUcgltR) | [Waystones crafting GIF](https://modrinth.com/project/UKUcgltR) |
-| :---: | :---: | :---: |
-| <a href="https://modrinth.com/datapack/better-waypoints"><img src="https://i.ytimg.com/vi/mzh78_l_LIQ/hqdefault.jpg" alt="Open the Better Waypoints creator page with its demo video" width="250"></a> | <a href="https://modrinth.com/project/UKUcgltR"><img src="https://i.ytimg.com/vi/QDvdj5lfnIY/hqdefault.jpg" alt="Open the Waystones creator page with its demo video" width="250"></a> | <a href="https://modrinth.com/project/UKUcgltR"><img src="https://cdn.modrinth.com/data/cached_images/c39228a4b7442b35dfce064f78c56fc180500d28.gif" alt="Waystones crafting recipes" width="250"></a> |
+| [Better Waypoints](https://modrinth.com/datapack/better-waypoints) | [Waystones](https://modrinth.com/project/UKUcgltR) |
+| :---: | :---: |
+| <a href="https://modrinth.com/datapack/better-waypoints"><img src="https://i.ytimg.com/vi/mzh78_l_LIQ/hqdefault.jpg" alt="Better Waypoints video preview" width="250"></a> | <a href="https://modrinth.com/project/UKUcgltR"><img src="https://cdn.modrinth.com/data/cached_images/c39228a4b7442b35dfce064f78c56fc180500d28.gif" alt="Waystones crafting recipes" width="250"></a> |
 
 The Better Waypoints video shows its full feature set; this server uses its markers, while crafted Waystones handle travel.
 
@@ -79,7 +79,7 @@ The Better Waypoints video shows its full feature set; this server uses its mark
 - Mobs have spawn animations and sounds. Players can crawl while downed.
 - Survival difficulty is **Normal**, PvP is off, and items drop on death.
 
-<p><a href="https://modrinth.com/datapack/spawn-animations"><img src="https://i.imgur.com/X8A0UY9.gif" alt="A Stray digging out of the ground as it spawns" width="250"></a><br><a href="https://modrinth.com/datapack/spawn-animations">Spawn Animations demo</a></p>
+<p><a href="https://modrinth.com/datapack/spawn-animations"><img src="https://i.imgur.com/X8A0UY9.gif" alt="A Stray digging out of the ground as it spawns" width="250"></a><br><a href="https://modrinth.com/datapack/spawn-animations">Spawn Animations</a></p>
 
 ## Server datapacks and plugins
 
