@@ -3,19 +3,18 @@
 ## Get started
 
 > [!TIP]
-> **Just joining? This is the only section you need.** The gameplay packs run on the server, so you do not need to install mods or datapacks.
-
-Darren will privately send you a **Tailscale invitation** and the **server address**. The invitation shares only the server PC, not Darren's other devices. [How sharing works](https://tailscale.com/docs/features/sharing)
+> **Just joining? This is the only section you need.** You do not need to install mods or datapacks.
 
 ![Three illustrated steps: install and sign in to Tailscale, accept Darren's invitation, then add the private address with port 25565 in Minecraft](images/connect-with-tailscale.svg)
 
 1. [Install Tailscale](https://tailscale.com/download) on the computer you play on, then **sign in**.
-2. Open Darren's invitation link and select **Accept**. Keep Tailscale **connected**.
-3. Launch **Minecraft: Java Edition 26.3**. Open **Multiplayer → Add Server**. Enter Darren's private Tailscale address **with `:25565` at the end** (for example, `100.x.y.z:25565`), then join. The server PC and game server must be on.
+2. Ask Darren for a **Tailscale invitation** and the **server address**.
+3. Open Darren's invitation link and select **Accept**. Keep Tailscale **connected**.
+4. Launch **Minecraft: Java Edition 26.3**. Open **Multiplayer → Add Server**.
+5. Enter Darren's private Tailscale address **with `:25565` at the end** (for example, `100.x.y.z:25565`), then join.
 
-**Optional resource pack:** For matching visuals, download the [Friends Survival resource pack](https://github.com/gypsymagic236/minecraft-26.3-friends-pack/releases/latest/download/Friends-Survival-26.3.zip). In Minecraft, open **Options → Resource Packs → Open Pack Folder**, put the ZIP there **without extracting it**, and move it into the active column.
-
-The welcome guide appears every time you join; type `/trigger mcguide` to see it again.
+**Optional resource pack (client-side):** For matching quality of life + visuals, download the [Friends Survival resource pack](https://github.com/gypsymagic236/minecraft-26.3-friends-pack/releases/latest/download/Friends-Survival-26.3.zip). 
+In Minecraft, open **Options → Resource Packs → Open Pack Folder**, put the ZIP there **without extracting it**, and move it into the active column.
 
 > [!TIP]
 > **You're ready to play. You can stop reading here.** Everything below is an optional reference for goals, controls, and server features.
