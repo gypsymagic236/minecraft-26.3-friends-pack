@@ -1,4 +1,4 @@
-# Darren's Minecraft <26.3> Setup guide
+# Darren's Minecraft [v26.3] Setup guide
 
 ## Get started
 
