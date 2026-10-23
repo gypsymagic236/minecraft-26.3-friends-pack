@@ -7,10 +7,16 @@ Everything you need to play on our Java Edition survival server is on this page.
 1. Launch **Minecraft: Java Edition 26.3**.
 2. Ask the host for the current server address and add it under **Multiplayer → Add Server**. The address is shared privately and is not published here.
 3. For matching visuals, download [Friends Survival resource pack](https://github.com/gypsymagic236/minecraft-26.3-friends-pack/releases/latest/download/Friends-Survival-26.3.zip). In Minecraft, open **Options → Resource Packs → Open Pack Folder**, put the ZIP there **without extracting it**, and move it into the active column.
-4. Optional: download the [light-level X overlay](https://github.com/gypsymagic236/minecraft-26.3-friends-pack/releases/latest/download/Optional-Light-Level-Overlay-MC26.3.zip) into the same folder. It is **off by default**. Activate it **above** the main pack only if you want red/yellow X marks that indicate where mobs can spawn.
+4. Optional: download the [light-level X overlay](https://github.com/gypsymagic236/minecraft-26.3-friends-pack/releases/latest/download/Optional-Light-Level-Overlay-MC26.3.zip) into the same folder. It is **off by default**. Activate it **above** the main pack only if you want X marks on dimly lit surfaces.
 5. Join the server. The welcome guide appears every time you join; type `/trigger mcguide` to see it again.
 
-The main pack omits **Clearer Water** and the red/yellow **Mob Spawn Indicator**. The optional overlay brings back only the X marks. The resource packs change visuals on your own computer; gameplay features below run on the server.
+The resource packs change visuals on your own computer; gameplay features below run on the server.
+
+### What the X overlay shows
+
+The X marks are a lighting aid for finding places to add torches or other lights. **Red** marks the darkest surfaces; **orange** and **yellow** mark progressively brighter ones. An X is **not a guarantee** that a mob can spawn there: actual spawning also depends on the block, space, dimension, and the game's rules. The overlay can cover many blocks at once, so it was separated from the main pack for anyone who finds it distracting.
+
+There is no keyboard toggle for this resource pack. To turn it on or off, use **Options → Resource Packs** and move the optional overlay between the active and available columns. Leave the main pack active if you want its other visual changes. Only your own view changes; the server and other players are unaffected.
 
 ## Controls and commands
 
