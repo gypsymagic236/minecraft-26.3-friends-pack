@@ -15,27 +15,49 @@ The resource pack changes visuals on your own computer; gameplay features below 
 
 Type commands in Minecraft chat (press **T**). **Sneak** means your normal sneak key, usually **Left Shift** unless you changed it.
 
+### Inventory and chests
+
 | Feature | What to do |
 | --- | --- |
-| Player guide | `/trigger mcguide` |
 | Sort your inventory | `/neatsort inv` — manual only; leaves your hotbar alone |
 | Sort an open chest | **Shift + left-click** an empty chest slot |
 | Put matching items into an open chest | **Shift + right-click** an empty chest slot |
 | Pull everything from an open chest | **Left-click outside** its slots |
 | Put away items into an open chest | **Right-click outside** its slots to push as much as will fit |
+
+### Mining and building
+
+| Feature | What to do |
+| --- | --- |
 | VeinMiner | **Sneak while mining ore**; up to 32 connected ore blocks; each block uses tool durability |
 | Excavating | **Sneak with an Excavating-enchanted pickaxe or shovel** to mine a 3 × 3 × 3 area; each block uses durability |
 | Timber | Break a tree with an axe **while standing** to fell it; leaves clear and saplings drop as items |
+
+### Travel and waypoints
+
+| Feature | What to do |
+| --- | --- |
 | Waypoint markers | `/trigger waypoint` opens personal and global markers |
 | Rename a waypoint | Stand within 4 blocks and type `/wpname <new name>`; free to rename |
 | Crafted Waystones | Craft and place a Waystone, then use it to travel to another in the **same dimension** |
 | Set and use your one home | `/trigger sethome` and `/trigger homes` |
 | Return to a previous location | `/trigger back`; after a final death it returns to the death location |
-| Request player teleport | Type `/trigger tpa set `, press **Tab** to see player IDs, then enter the chosen ID |
-| Revive a friend | **Sneak near** a glowing, downed player for 2 seconds; you have 45 seconds before they die |
-| Toggle the coordinates HUD | `/trigger ch_toggle`; `/trigger ch_help` shows its options |
 
 Waystones are public by default, free to use after crafting, unlimited per player, and anyone can break a placed one. The recipe uses **1 Lodestone, 1 Eye of Ender, 2 Amethyst Shards, and 3 matching base blocks**. Other travel commands are instant and have no cooldown.
+
+### Playing together
+
+| Feature | What to do |
+| --- | --- |
+| Request player teleport | Type `/trigger tpa set `, press **Tab** to see player IDs, then enter the chosen ID |
+| Revive a friend | **Sneak near** a glowing, downed player for 2 seconds; you have 45 seconds before they die |
+
+### Help and displays
+
+| Feature | What to do |
+| --- | --- |
+| Player guide | `/trigger mcguide` |
+| Toggle the coordinates HUD | `/trigger ch_toggle`; `/trigger ch_help` shows its options |
 
 ## Things that happen automatically
 
