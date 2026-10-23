@@ -23,7 +23,7 @@ In Minecraft, open **Options → Resource Packs → Open Pack Folder**, put the 
 
 ## More Details
 
-**Jump to:** [Progression Guide Mod](#progression-guide-mod) · [Controls](#controls-and-commands) · [Automatic features](#things-that-happen-automatically) · [Installed packs](#server-datapacks-and-plugins)
+**Jump to:** [Progression Guide Mod](#progression-guide-mod) · [Commands](#controls-and-commands) · [Automatic features](#things-that-happen-automatically) · [Installed packs](#server-datapacks-and-plugins)
 
 ### Progression Guide Mod
 
