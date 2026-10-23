@@ -18,6 +18,12 @@ The welcome guide appears every time you join; type `/trigger mcguide` to see it
 
 The resource pack changes visuals on your own computer; gameplay features below run on the server.
 
+## Things to work toward
+
+Press **L** (or your Advancements key) to browse [BlazeandCave's Advancements Pack](https://modrinth.com/datapack/blazeandcaves-advancements-pack). Its themed tabs offer goals for mining, building, exploring, farming, the Nether, the End, and more. **Progress is shared:** when one of us completes a goal, it counts for everyone. The pack is on the server, so there is nothing to download. Bonus item and XP rewards are off.
+
+**If a goal does not register:** Darren can mark it complete as a server operator by typing `/advancement grant @s only blazeandcave:bacap/getting_wood` in Minecraft chat. This example grants **Getting Wood**; replace `bacap/getting_wood` with the goal's ID for another advancement (use **Tab** to complete IDs). The completion is then shared with the group.
+
 ## Controls and commands
 
 Type commands in Minecraft chat (press **T**). **Sneak** means your normal sneak key, usually **Left Shift** unless you changed it.
@@ -100,6 +106,7 @@ These are installed on the server. **Do not put them in your Minecraft resource-
 | Mining, building, and farming | Armor Statues, Armored Elytra, Cauldron Concrete, Cauldron Mud, Chunk Loaders, Fast Leaf Decay, Glass Always Drops, More Effective Tools, Painting Picker, Redstone Rotation Wrench, Silk Touch Budding Amethyst, Timber, Villager Workstation Highlights, Wood Stripper, XP Bottling |
 | Drops and recipes | Double Shulker Shells, Dragon Drops, Ender Chest Always Drops, Husks Drop Sand, Kill Empty Boats, Unlock All Recipes |
 | Status and convenience | AFK Display, Clumps, Durability Ping, Health Indicator, Multiplayer Sleep, Real Time Clock, Silence Mobs, Simple Revive, Spawn Animations, Spawning Spheres, Track Raw Statistics, Track Statistics, Villager Death Messages, Wandering Trader Announcements |
+| Progression | BlazeandCave's Advancements Pack, with cooperative progress |
 | Server guide | Welcome Guide (the join message and `/trigger mcguide`) |
 
 The server plugins are **NeatSort**, **SmartStash**, **VeinMiner**, **Excavating Enchant**, **SimpleTPA**, and the waypoint renaming helper. All sorting is manual. The table above covers the main commands and controls; other packs mainly change recipes, drops, displays, or automatic behavior.
@@ -110,6 +117,6 @@ The server uses **38 [Vanilla Tweaks datapacks](https://vanillatweaks.net/picker
 
 ## Credits and updates
 
-The downloadable visual pack is customized from [Vanilla Tweaks](https://vanillatweaks.net/). It is free. See [their terms](https://vanillatweaks.net/terms/) and the `credits.txt` inside the ZIP. Server features come from [Vanilla Tweaks datapacks](https://vanillatweaks.net/picker/datapacks/) and the linked projects: [NeatSort](https://modrinth.com/project/ZgbYoHqH), [SmartStash](https://modrinth.com/project/XYbeLI5P), [VeinMiner](https://modrinth.com/project/OhduvhIc), [Excavating Enchant](https://modrinth.com/project/pKiI1vdn), [SimpleTPA](https://modrinth.com/plugin/simple-tpa-vexo), [Better Waypoints](https://modrinth.com/datapack/better-waypoints), [Waystones](https://modrinth.com/project/UKUcgltR), [Simple Revive](https://modrinth.com/project/x1IFRoPF), [Spawn Animations](https://modrinth.com/project/zrzYrlm0), [Health Indicator](https://modrinth.com/project/hxaUKE37), and [Clumps](https://modrinth.com/datapack/ly-clumps).
+The downloadable visual pack is customized from [Vanilla Tweaks](https://vanillatweaks.net/). It is free. See [their terms](https://vanillatweaks.net/terms/) and the `credits.txt` inside the ZIP. Server features come from [Vanilla Tweaks datapacks](https://vanillatweaks.net/picker/datapacks/) and the linked projects: [BlazeandCave's Advancements Pack](https://modrinth.com/datapack/blazeandcaves-advancements-pack), [NeatSort](https://modrinth.com/project/ZgbYoHqH), [SmartStash](https://modrinth.com/project/XYbeLI5P), [VeinMiner](https://modrinth.com/project/OhduvhIc), [Excavating Enchant](https://modrinth.com/project/pKiI1vdn), [SimpleTPA](https://modrinth.com/plugin/simple-tpa-vexo), [Better Waypoints](https://modrinth.com/datapack/better-waypoints), [Waystones](https://modrinth.com/project/UKUcgltR), [Simple Revive](https://modrinth.com/project/x1IFRoPF), [Spawn Animations](https://modrinth.com/project/zrzYrlm0), [Health Indicator](https://modrinth.com/project/hxaUKE37), and [Clumps](https://modrinth.com/datapack/ly-clumps).
 
 When the host posts an updated pack, download the latest release and replace the old ZIP in your resource-packs folder. Your world saves and server datapacks stay on the server.
