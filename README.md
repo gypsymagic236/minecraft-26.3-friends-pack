@@ -1,4 +1,4 @@
-# Darren's Minecraft [v26.3] Setup guide
+# Minecraft 26.3 friends guide
 
 ## Get started
 
@@ -23,19 +23,7 @@ In Minecraft, open **Options → Resource Packs → Open Pack Folder**, put the 
 
 ## More Details
 
-**Jump to:** [Progression Guide Mod](#progression-guide-mod) · [Commands](#controls-and-commands) · [Automatic features](#things-that-happen-automatically) · [Installed packs](#server-datapacks-and-plugins)
-
-### Progression Guide Mod
-
-Press **L** (or your Advancements key) to browse [BlazeandCave's Advancements Pack](https://modrinth.com/datapack/blazeandcaves-advancements-pack). Its themed tabs offer goals for mining, building, exploring, farming, the Nether, the End, and more. **Progress is shared:** when one of us completes a goal, it counts for everyone. The pack is on the server, so there is nothing to download. Bonus item and XP rewards are off.
-
-Peek at three tabs from the [creator's gallery](https://modrinth.com/datapack/blazeandcaves-advancements-pack/gallery):
-
-| Mining | Building | Farming |
-| :---: | :---: | :---: |
-| <a href="https://modrinth.com/datapack/blazeandcaves-advancements-pack/gallery" target="_blank" rel="noopener noreferrer"><img src="https://cdn.modrinth.com/data/VoVJ47kN/images/65ab3c3059b391e30bd684cf79ab185847611cc2_350.webp" alt="BlazeandCave's Mining advancement tab" width="230"></a> | <a href="https://modrinth.com/datapack/blazeandcaves-advancements-pack/gallery" target="_blank" rel="noopener noreferrer"><img src="https://cdn.modrinth.com/data/VoVJ47kN/images/36da9b99d6101a7a603075bcde06b81fa6bb1810_350.webp" alt="BlazeandCave's Building advancement tab" width="230"></a> | <a href="https://modrinth.com/datapack/blazeandcaves-advancements-pack/gallery" target="_blank" rel="noopener noreferrer"><img src="https://cdn.modrinth.com/data/VoVJ47kN/images/0b65ace23d96978d3b96f0eeacbaa70fe832476b_350.webp" alt="BlazeandCave's Farming advancement tab" width="230"></a> |
-
-**If a goal does not register:** Server ops can mark it complete by typing `/advancement grant @s only blazeandcave:bacap/getting_wood` in Minecraft chat. This example grants **Getting Wood**; replace `bacap/getting_wood` with the goal's ID for another advancement (use **Tab** to complete IDs). The completion is then shared with the group.
+**Jump to:** [Commands](#controls-and-commands) · [Automatic features](#things-that-happen-automatically) · [Installed packs](#server-datapacks-and-plugins)
 
 ### Controls and commands
 
@@ -45,11 +33,9 @@ Type commands in Minecraft chat (press **T**). **Sneak** means your normal sneak
 
 | Feature | What to do |
 | --- | --- |
-| Sort your inventory | `/neatsort inv` — manual only; leaves your hotbar alone |
+| Sort your inventory | **Shift + left-click** an empty inventory slot, or **left-click outside** the inventory with an empty cursor; leaves your hotbar alone |
 | Sort an open chest | **Shift + left-click** an empty chest slot |
 | Put matching items into an open chest | **Shift + right-click** an empty chest slot |
-| Pull everything from an open chest | **Left-click outside** its slots |
-| Put away items into an open chest | **Right-click outside** its slots to push as much as will fit |
 
 #### Mining and building
 
@@ -69,19 +55,15 @@ Type commands in Minecraft chat (press **T**). **Sneak** means your normal sneak
 | --- | --- |
 | Waypoint markers | `/trigger waypoint` opens personal and global markers |
 | Rename a waypoint | Stand within 4 blocks and type `/wpname <new name>`; free to rename |
-| Crafted Waystones | Craft and place a Waystone, then use it to travel to another in the **same dimension** |
+| Travel to a waypoint | Select a personal or global marker in `/trigger waypoint`; travel is free, including across dimensions |
 | Set and use your one home | `/trigger sethome` and `/trigger homes` |
 | Return to a previous location | `/trigger back`; after a final death it returns to the death location |
 
-Travel commands are instant and have no cooldown. Waystones are public by default, free to use after crafting, unlimited per player, and anyone can break a placed one. The recipe uses **1 [Lodestone](https://minecraft.wiki/w/Lodestone), 1 [Eye of Ender](https://minecraft.wiki/w/Eye_of_Ender), 2 [Amethyst Shards](https://minecraft.wiki/w/Amethyst_Shard), and 3 matching base blocks**.
+Travel commands are instant and have no cooldown. Better Waypoints supports personal and shared markers.
 
-**Base blocks:** [Andesite](https://minecraft.wiki/w/Andesite), [Sandstone](https://minecraft.wiki/w/Sandstone), [Nether Bricks](https://minecraft.wiki/w/Nether_Bricks), [Mossy Stone Bricks](https://minecraft.wiki/w/Mossy_Stone_Bricks), [Cobbled Deepslate](https://minecraft.wiki/w/Cobbled_Deepslate), [Copper Block](https://minecraft.wiki/w/Copper_block), [Prismarine Bricks](https://minecraft.wiki/w/Prismarine_bricks), [Tuff](https://minecraft.wiki/w/Tuff), [Red Sandstone](https://minecraft.wiki/w/Red_Sandstone), or [Quartz Block](https://minecraft.wiki/w/Blocks_of_quartz).
-
-| [Better Waypoints](https://modrinth.com/datapack/better-waypoints) | [Waystones](https://modrinth.com/project/UKUcgltR) |
-| :---: | :---: |
-| <a href="https://modrinth.com/datapack/better-waypoints" target="_blank" rel="noopener noreferrer"><img src="https://i.ytimg.com/vi/mzh78_l_LIQ/hqdefault.jpg" alt="Better Waypoints video preview" width="340"></a> | <a href="https://modrinth.com/project/UKUcgltR" target="_blank" rel="noopener noreferrer"><img src="https://cdn.modrinth.com/data/cached_images/c39228a4b7442b35dfce064f78c56fc180500d28.gif" alt="Waystones crafting recipes" width="340"></a> |
-
-The Better Waypoints video shows its full feature set; this server uses its markers, while crafted Waystones handle travel.
+| [Better Waypoints](https://modrinth.com/datapack/better-waypoints) |
+| :---: |
+| <a href="https://modrinth.com/datapack/better-waypoints" target="_blank" rel="noopener noreferrer"><img src="https://i.ytimg.com/vi/mzh78_l_LIQ/hqdefault.jpg" alt="Better Waypoints preview" width="340"></a> |
 
 #### Playing together
 
@@ -116,24 +98,23 @@ These features run on the server. **Do not put them in your Minecraft resource-p
 
 | Area | Installed features |
 | --- | --- |
-| Travel and finding places | Back, Better Waypoints (markers only), Coordinates HUD, Custom Nether Portals, Elevators, Homes, Nether Portal Coords, Spawn, crafted Waystones; SimpleTPA handles player requests |
+| Travel and finding places | Back, Better Waypoints (free travel), Coordinates HUD, Custom Nether Portals, Elevators, Homes, Nether Portal Coords, Spawn; SimpleTPA handles player requests |
 | Mining, building, and farming | Armor Statues, Armored Elytra, Cauldron Concrete, Cauldron Mud, Chunk Loaders, Fast Leaf Decay, Glass Always Drops, More Effective Tools, Painting Picker, Redstone Rotation Wrench, Silk Touch Budding Amethyst, Timber, Villager Workstation Highlights, Wood Stripper, XP Bottling |
 | Drops and recipes | Double Shulker Shells, Dragon Drops, Ender Chest Always Drops, Husks Drop Sand, Kill Empty Boats, Unlock All Recipes |
 | Status and convenience | AFK Display, Clumps, Durability Ping, Graves, Health Indicator, Multiplayer Sleep, Real Time Clock, Silence Mobs, Simple Revive, Spawn Animations, Spawning Spheres, Track Raw Statistics, Track Statistics, Villager Death Messages, Wandering Trader Announcements |
-| Progression | BlazeandCave's Advancements Pack, with cooperative progress |
 | Server guide | Welcome Guide (the join message and `/trigger mcguide`) |
 
 The server plugins are **NeatSort**, **SmartStash**, **VeinMiner**, **Excavating Enchant**, **SimpleTPA**, and the waypoint renaming helper. All sorting is manual. The table above covers the main commands and controls; other packs mainly change recipes, drops, displays, or automatic behavior.
 
 #### Vanilla Tweaks datapacks
 
-The server uses **39 [Vanilla Tweaks datapacks](https://vanillatweaks.net/picker/datapacks/)** from the list above. Examples include **Back and Homes** for travel; **Timber, Armor Statues, and Fast Leaf Decay** for building; **Double Shulker Shells, Dragon Drops, and Graves** for loot; and **Multiplayer Sleep, AFK Display, and Coordinates HUD** for convenience. Vanilla Tweaks explains each pack in its picker.
+The server uses **39 [Vanilla Tweaks datapacks](https://vanillatweaks.net/picker/datapacks/)** from the list above. Examples include **Back and Homes** for travel; **Timber, Armor Statues, and Fast Leaf Decay** for building; **Double Shulker Shells, Dragon Drops, and Graves** for loot; and **Multiplayer Sleep, AFK Display, and Coordinates HUD** for convenience. **XP Bottling** stores experience in bottles for later use; **Elevators** let you move vertically between matching blocks. Vanilla Tweaks explains these and the other packs in its picker.
 
 ### Credits and updates
 
 The optional visual pack is customized from [Vanilla Tweaks](https://vanillatweaks.net/). See [their terms](https://vanillatweaks.net/terms/) and the `credits.txt` inside the ZIP. Server features also use [Vanilla Tweaks datapacks](https://vanillatweaks.net/picker/datapacks/) and these projects:
 
-- **Progression and travel:** [BlazeandCave's Advancements Pack](https://modrinth.com/datapack/blazeandcaves-advancements-pack), [Better Waypoints](https://modrinth.com/datapack/better-waypoints), [Waystones](https://modrinth.com/project/UKUcgltR), [SimpleTPA](https://modrinth.com/plugin/simple-tpa-vexo).
+- **Progression and travel:** [Better Waypoints](https://modrinth.com/datapack/better-waypoints), [SimpleTPA](https://modrinth.com/plugin/simple-tpa-vexo).
 - **Inventory and mining:** [NeatSort](https://modrinth.com/project/ZgbYoHqH), [SmartStash](https://modrinth.com/project/XYbeLI5P), [VeinMiner](https://modrinth.com/project/OhduvhIc), [Excavating Enchant](https://modrinth.com/project/pKiI1vdn).
 - **Other conveniences:** [Simple Revive](https://modrinth.com/project/x1IFRoPF), [Spawn Animations](https://modrinth.com/project/zrzYrlm0), [Health Indicator](https://modrinth.com/project/hxaUKE37), [Clumps](https://modrinth.com/datapack/ly-clumps).
 
