@@ -28,7 +28,7 @@ Peek at three tabs from the [creator's gallery](https://modrinth.com/datapack/bl
 | :---: | :---: | :---: |
 | <a href="https://modrinth.com/datapack/blazeandcaves-advancements-pack/gallery" target="_blank" rel="noopener noreferrer"><img src="https://cdn.modrinth.com/data/VoVJ47kN/images/65ab3c3059b391e30bd684cf79ab185847611cc2_350.webp" alt="BlazeandCave's Mining advancement tab" width="230"></a> | <a href="https://modrinth.com/datapack/blazeandcaves-advancements-pack/gallery" target="_blank" rel="noopener noreferrer"><img src="https://cdn.modrinth.com/data/VoVJ47kN/images/36da9b99d6101a7a603075bcde06b81fa6bb1810_350.webp" alt="BlazeandCave's Building advancement tab" width="230"></a> | <a href="https://modrinth.com/datapack/blazeandcaves-advancements-pack/gallery" target="_blank" rel="noopener noreferrer"><img src="https://cdn.modrinth.com/data/VoVJ47kN/images/0b65ace23d96978d3b96f0eeacbaa70fe832476b_350.webp" alt="BlazeandCave's Farming advancement tab" width="230"></a> |
 
-**If a goal does not register:** Darren can mark it complete as a server operator by typing `/advancement grant @s only blazeandcave:bacap/getting_wood` in Minecraft chat. This example grants **Getting Wood**; replace `bacap/getting_wood` with the goal's ID for another advancement (use **Tab** to complete IDs). The completion is then shared with the group.
+**If a goal does not register:** Server ops can mark it complete by typing `/advancement grant @s only blazeandcave:bacap/getting_wood` in Minecraft chat. This example grants **Getting Wood**; replace `bacap/getting_wood` with the goal's ID for another advancement (use **Tab** to complete IDs). The completion is then shared with the group.
 
 ## Controls and commands
 
