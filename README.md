@@ -53,13 +53,13 @@ Type commands in Minecraft chat (press **T**). **Sneak** means your normal sneak
 
 | Feature | What to do |
 | --- | --- |
-| Waypoint markers | `/trigger waypoint` opens personal and global markers |
+| Waypoint markers | `/trigger waypoint` opens shared markers by default; choose **Place Waypoint** to add one for everyone. Personal markers remain available from the menu. |
 | Rename a waypoint | Stand within 4 blocks and type `/wpname <new name>`; free to rename |
 | Travel to a waypoint | Select a personal or global marker in `/trigger waypoint`; travel is free, including across dimensions |
 | Set and use your one home | `/trigger sethome` and `/trigger homes` |
 | Return to a previous location | `/trigger back`; after a final death it returns to the death location |
 
-Travel commands are instant and have no cooldown. Better Waypoints supports personal and shared markers.
+Travel commands are instant and have no cooldown. New waypoint markers are shared by default.
 
 | [Better Waypoints](https://modrinth.com/datapack/better-waypoints) |
 | :---: |
