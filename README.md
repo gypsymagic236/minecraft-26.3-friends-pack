@@ -104,6 +104,8 @@ These features run on the server. **Do not put them in your Minecraft resource-p
 | Status and convenience | AFK Display, Clumps, Durability Ping, Graves, Health Indicator, Multiplayer Sleep, Real Time Clock, Silence Mobs, Simple Revive, Spawn Animations, Spawning Spheres, Track Raw Statistics, Track Statistics, Villager Death Messages, Wandering Trader Announcements |
 | Server guide | Welcome Guide (the join message and `/trigger mcguide`) |
 
+**Chunk Loaders:** Drop a **Copper Ingot** onto a Lodestone to keep its chunk loaded while the server runs. Breaking the Lodestone returns the ingot. This server uses a customized version of [Vanilla Tweaks' Chunk Loaders](https://vanillatweaks.net/picker/datapacks/).
+
 The server plugins are **NeatSort**, **SmartStash**, **InventorySortShortcut**, **VeinMiner**, **Excavating Enchant**, **SimpleTPA**, **NeverEnoughRecipes** (with AbyssalLib), and the waypoint renaming helper. All sorting is manual. The table above covers the main commands and controls; other packs mainly change recipes, drops, displays, or automatic behavior.
 
 #### Vanilla Tweaks datapacks
