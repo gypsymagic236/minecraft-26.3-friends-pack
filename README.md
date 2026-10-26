@@ -23,7 +23,7 @@ In Minecraft, open **Options → Resource Packs → Open Pack Folder**, put the 
 
 ## More Details
 
-**Jump to:** [Mansion Island seed guide](MANSION-ISLAND.md) · [Survival progression walkthrough](survival-progression.md) · [Commands](#controls-and-commands) · [Automatic features](#things-that-happen-automatically) · [Installed packs](#server-datapacks-and-plugins)
+**Jump to:** [Mansion Island seed guide](map.md) · [Survival progression walkthrough](survival-progression.md) · [Commands](#controls-and-commands) · [Automatic features](#things-that-happen-automatically) · [Installed packs](#server-datapacks-and-plugins)
 
 ### Controls and commands
 
