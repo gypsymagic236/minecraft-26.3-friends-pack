@@ -85,7 +85,7 @@ Travel commands are instant and have no cooldown. New waypoint markers are share
 - **Status:** [Health Indicator](https://modrinth.com/datapack/health-indicator) shows health below player names. [Durability Ping](https://vanillatweaks.net/picker/datapacks/) warns about low durability on held gear and armor with an action-bar message and sound.
 - **Alerts:** [Villager Death Messages](https://vanillatweaks.net/picker/datapacks/) announces villager deaths with coordinates; [Wandering Trader Announcements](https://vanillatweaks.net/picker/datapacks/) reports nearby arrivals; [AFK Display](https://vanillatweaks.net/picker/datapacks/) grays out idle players.
 - **Animations and revives:** [Spawn Animations](https://modrinth.com/datapack/spawn-animations) makes mobs emerge with sounds. [Simple Revive](https://modrinth.com/datapack/player-revive) lets downed players crawl.
-- **After a final death:** [Graves](https://vanillatweaks.net/picker/datapacks/) saves your dropped items in a grave where you died. Left-click or right-click the grave to retrieve them.
+- **After a final death:** [Graves](https://vanillatweaks.net/picker/datapacks/) saves your dropped items in a grave where you died; see the Vanilla Tweaks quick guide below to retrieve them.
 - **Experience:** [Clumps](https://modrinth.com/datapack/ly-clumps) combines nearby XP orbs to reduce lag. Instant pickup is off so Mending works normally.
 
 | [Health Indicator](https://modrinth.com/datapack/health-indicator) | [Simple Revive](https://modrinth.com/datapack/player-revive) | [Spawn Animations](https://modrinth.com/datapack/spawn-animations) |
@@ -104,13 +104,17 @@ These features run on the server. **Do not put them in your Minecraft resource-p
 | Status and convenience | AFK Display, Clumps, Durability Ping, Graves, Health Indicator, Multiplayer Sleep, Real Time Clock, Silence Mobs, Simple Revive, Spawn Animations, Spawning Spheres, Track Raw Statistics, Track Statistics, Villager Death Messages, Wandering Trader Announcements |
 | Server guide | Welcome Guide (the join message and `/trigger mcguide`) |
 
-**Chunk Loaders:** Drop a **Copper Ingot** onto a Lodestone to keep its chunk loaded while the server runs. Breaking the Lodestone returns the ingot. This server uses a customized version of [Vanilla Tweaks' Chunk Loaders](https://vanillatweaks.net/picker/datapacks/).
-
 The server plugins are **NeatSort**, **SmartStash**, **InventorySortShortcut**, **VeinMiner**, **Excavating Enchant**, **SimpleTPA**, **NeverEnoughRecipes** (with AbyssalLib), and the waypoint renaming helper. All sorting is manual. The table above covers the main commands and controls; other packs mainly change recipes, drops, displays, or automatic behavior.
 
-#### Vanilla Tweaks datapacks
+#### Vanilla Tweaks quick guide
 
-The server uses **39 [Vanilla Tweaks datapacks](https://vanillatweaks.net/picker/datapacks/)** from the list above. Examples include **Back and Homes** for travel; **Timber, Armor Statues, and Fast Leaf Decay** for building; **Double Shulker Shells, Dragon Drops, and Graves** for loot; and **Multiplayer Sleep, AFK Display, and Coordinates HUD** for convenience. **XP Bottling** stores experience in bottles for later use; **Elevators** let you move vertically between matching blocks. Vanilla Tweaks explains these and the other packs in its picker.
+The server has **39 [Vanilla Tweaks datapacks](https://vanillatweaks.net/picker/datapacks/)**. Most work automatically; these need a special action:
+
+- **Elevators:** Drop an Ender Pearl onto wool to make an elevator. Jump to the matching-color elevator above; crouch to go below.
+- **XP Bottling:** Right-click an enchanting table with an empty glass bottle in hand. Smelt the XP bottle in a furnace to reclaim the experience.
+- **Chunk Loaders:** Drop a Copper Ingot onto a Lodestone to keep its chunk loaded while the server runs. Break the Lodestone to get the ingot back. This pack is customized from [Vanilla Tweaks](https://vanillatweaks.net/picker/datapacks/).
+- **Graves:** Left- or right-click your grave to retrieve your items and XP; `/trigger graves` lists your graves.
+- **Armor Statues:** Type `/trigger as_help` for the armor-stand controls.
 
 ### Credits and updates
 
