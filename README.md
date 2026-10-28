@@ -42,12 +42,10 @@ Type commands in Minecraft chat (press **T**). **Sneak** means your normal sneak
 | Feature | What to do |
 | --- | --- |
 | VeinMiner | **Sneak while mining ore**; up to 32 connected ore blocks; each block uses tool durability |
-| Excavating | **Sneak with an Excavating-enchanted pickaxe or shovel** to mine a 3 × 3 × 3 area; each block uses durability |
+| Excavating | Type **`/excavate`** to toggle mining with any pickaxe or shovel. It starts at 3 × 3 × 3. Set your preferred size with **`/excavate size <width> <height> <depth>`**; for example, `/excavate size 5 3 2`. Width and height can be 1, 3, or 5; depth can be 1–5; maximum 75 blocks. A cyan outline previews the area, which extends into the surface. Your size is saved, while the toggle resets to off when you leave. Sneak to use VeinMiner instead. |
 | Timber | Break a tree with an axe **while standing** to fell it; leaves clear and saplings drop as items |
 
-| [VeinMiner](https://modrinth.com/project/OhduvhIc) | [Excavating](https://modrinth.com/project/pKiI1vdn) |
-| :---: | :---: |
-| <a href="https://modrinth.com/project/OhduvhIc" target="_blank" rel="noopener noreferrer"><img src="https://cdn.modrinth.com/data/OhduvhIc/images/f4c0ad7fa3b8b579753c1f757e80151798717c68.gif" alt="VeinMiner breaking a connected ore vein" width="340"></a> | <a href="https://modrinth.com/project/pKiI1vdn" target="_blank" rel="noopener noreferrer"><img src="https://cdn.modrinth.com/data/pKiI1vdn/images/f1f300f8855d1a8f469dd418a193089d723c2453.gif" alt="Excavating enchant mining a larger area" width="340"></a> |
+<a href="https://modrinth.com/project/OhduvhIc" target="_blank" rel="noopener noreferrer"><img src="https://cdn.modrinth.com/data/OhduvhIc/images/f4c0ad7fa3b8b579753c1f757e80151798717c68.gif" alt="VeinMiner breaking a connected ore vein" width="340"></a>
 
 #### Travel and waypoints
 
@@ -70,7 +68,6 @@ Travel commands are instant and have no cooldown. New waypoint markers are share
 | Feature | What to do |
 | --- | --- |
 | Teleport to a player | `/tp <playername>`; no acceptance is needed |
-| Revive a friend | **Sneak near** a glowing, downed player for 2 seconds; you have 45 seconds before they die |
 
 #### Help and displays
 
@@ -84,14 +81,14 @@ Travel commands are instant and have no cooldown. New waypoint markers are share
 - **Sleep:** [Multiplayer Sleep](https://vanillatweaks.net/picker/datapacks/) lets one player skip the night; a sleep message appears in chat after five seconds.
 - **Status:** [Health Indicator](https://modrinth.com/datapack/health-indicator) shows health below player names. [Durability Ping](https://vanillatweaks.net/picker/datapacks/) warns about low durability on held gear and armor with an action-bar message and sound.
 - **Alerts:** [Villager Death Messages](https://vanillatweaks.net/picker/datapacks/) announces villager deaths with coordinates; [Wandering Trader Announcements](https://vanillatweaks.net/picker/datapacks/) reports nearby arrivals; [AFK Display](https://vanillatweaks.net/picker/datapacks/) grays out idle players.
-- **Animations and revives:** [Spawn Animations](https://modrinth.com/datapack/spawn-animations) makes mobs emerge with sounds. [Simple Revive](https://modrinth.com/datapack/player-revive) lets downed players crawl.
+- **Animations:** [Spawn Animations](https://modrinth.com/datapack/spawn-animations) makes mobs emerge with sounds.
 - **After a final death:** [Graves](https://vanillatweaks.net/picker/datapacks/) saves your dropped items in a grave where you died; see the Vanilla Tweaks quick guide below to retrieve them.
 - **Experience:** You keep all your XP when you die. [Clumps](https://modrinth.com/datapack/ly-clumps) combines nearby XP orbs to reduce lag. Instant pickup is off so Mending works normally.
 - **Lighting:** [Dynamic Lights](https://modrinth.com/datapack/dynamic-lights-creepermeyt) lets held torches and other glowing items light up their surroundings for everyone.
 
-| [Health Indicator](https://modrinth.com/datapack/health-indicator) | [Simple Revive](https://modrinth.com/datapack/player-revive) | [Spawn Animations](https://modrinth.com/datapack/spawn-animations) |
-| :---: | :---: | :---: |
-| <a href="https://modrinth.com/datapack/health-indicator" target="_blank" rel="noopener noreferrer"><img src="https://cdn.modrinth.com/data/hxaUKE37/images/a851f319889e4eccdf8884fce0a294bcb54bfeaa.jpeg" alt="Health points displayed below a player's name" width="220"></a> | <a href="https://modrinth.com/datapack/player-revive" target="_blank" rel="noopener noreferrer"><img src="images/simple-revive-downed.png" alt="A glowing, downed player lying on the ground with the revive timer visible" width="220"></a> | <a href="https://modrinth.com/datapack/spawn-animations" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/X8A0UY9.gif" alt="A Stray digging out of the ground as it spawns" width="220"></a> |
+| [Health Indicator](https://modrinth.com/datapack/health-indicator) | [Spawn Animations](https://modrinth.com/datapack/spawn-animations) |
+| :---: | :---: |
+| <a href="https://modrinth.com/datapack/health-indicator" target="_blank" rel="noopener noreferrer"><img src="https://cdn.modrinth.com/data/hxaUKE37/images/a851f319889e4eccdf8884fce0a294bcb54bfeaa.jpeg" alt="Health points displayed below a player's name" width="220"></a> | <a href="https://modrinth.com/datapack/spawn-animations" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/X8A0UY9.gif" alt="A Stray digging out of the ground as it spawns" width="220"></a> |
 
 ### Server datapacks and plugins
 
@@ -102,10 +99,10 @@ These features run on the server. **Do not put them in your Minecraft resource-p
 | Travel and finding places | Back, Better Waypoints (free travel), Coordinates HUD, Custom Nether Portals, Elevators, Homes, Nether Portal Coords, Spawn; SimpleTPA handles player teleports |
 | Mining, building, and farming | Armor Statues, Armored Elytra, Cauldron Concrete, Cauldron Mud, Chunk Loaders, Fast Leaf Decay, Glass Always Drops, More Effective Tools, Painting Picker, Redstone Rotation Wrench, Silk Touch Budding Amethyst, Timber, Villager Workstation Highlights, Wood Stripper, XP Bottling |
 | Drops and recipes | Double Shulker Shells, Dragon Drops, Ender Chest Always Drops, Husks Drop Sand, Kill Empty Boats, Unlock All Recipes |
-| Status and convenience | AFK Display, Clumps, Durability Ping, Dynamic Lights, Graves, Health Indicator, Multiplayer Sleep, Real Time Clock, Silence Mobs, Simple Revive, Spawn Animations, Spawning Spheres, Track Raw Statistics, Track Statistics, Villager Death Messages, Wandering Trader Announcements |
+| Status and convenience | AFK Display, Clumps, Durability Ping, Dynamic Lights, Graves, Health Indicator, Multiplayer Sleep, Real Time Clock, Silence Mobs, Spawn Animations, Spawning Spheres, Track Raw Statistics, Track Statistics, Villager Death Messages, Wandering Trader Announcements |
 | Server guide | Welcome Guide (the join message and `/trigger mcguide`) |
 
-The server plugins are **NeatSort**, **SmartStash**, **InventorySortShortcut**, **VeinMiner**, **Excavating Enchant**, **SimpleTPA**, **NeverEnoughRecipes** (with AbyssalLib), **KeepDeathXp**, and the waypoint renaming helper. All sorting is manual. The table above covers the main commands and controls; other packs mainly change recipes, drops, displays, or automatic behavior.
+The server plugins are **NeatSort**, **SmartStash**, **InventorySortShortcut**, **VeinMiner**, **Excavating Shortcut**, **SimpleTPA**, **NeverEnoughRecipes** (with AbyssalLib), **KeepDeathXp**, and the waypoint renaming helper. The old Excavating enchant no longer appears as a new enchant. All sorting is manual. The table above covers the main commands and controls; other packs mainly change recipes, drops, displays, or automatic behavior.
 
 #### Vanilla Tweaks quick guide
 
@@ -122,7 +119,7 @@ The server has **39 [Vanilla Tweaks datapacks](https://vanillatweaks.net/picker/
 The optional visual pack is customized from [Vanilla Tweaks](https://vanillatweaks.net/). See [their terms](https://vanillatweaks.net/terms/) and the `credits.txt` inside the ZIP. Server features also use [Vanilla Tweaks datapacks](https://vanillatweaks.net/picker/datapacks/) and these projects:
 
 - **Progression and travel:** [Better Waypoints](https://modrinth.com/datapack/better-waypoints), [SimpleTPA](https://modrinth.com/plugin/simple-tpa-vexo).
-- **Inventory and mining:** [NeatSort](https://modrinth.com/project/ZgbYoHqH), [SmartStash](https://modrinth.com/project/XYbeLI5P), [VeinMiner](https://modrinth.com/project/OhduvhIc), [Excavating Enchant](https://modrinth.com/project/pKiI1vdn).
-- **Other conveniences:** [Simple Revive](https://modrinth.com/project/x1IFRoPF), [Spawn Animations](https://modrinth.com/project/zrzYrlm0), [Health Indicator](https://modrinth.com/project/hxaUKE37), [Clumps](https://modrinth.com/datapack/ly-clumps).
+- **Inventory and mining:** [NeatSort](https://modrinth.com/project/ZgbYoHqH), [SmartStash](https://modrinth.com/project/XYbeLI5P), [VeinMiner](https://modrinth.com/project/OhduvhIc). The server's Excavating Shortcut is adapted from [Excavator Enchant](https://github.com/Derec-Mods/Excavator-Enchant/).
+- **Other conveniences:** [Spawn Animations](https://modrinth.com/project/zrzYrlm0), [Health Indicator](https://modrinth.com/project/hxaUKE37), [Clumps](https://modrinth.com/datapack/ly-clumps).
 
 When the host posts an updated pack, download the latest release and replace the old ZIP in your resource-packs folder. Your world saves and server datapacks stay on the server.
