@@ -3,7 +3,7 @@
 ## Get started
 
 > [!TIP]
-> **Just joining? This is the only section you need.** You do not need to install mods or datapacks.
+> **Just joining? This is the only section you need.** You do not need to install mods or datapacks. The server offers its required resource pack automatically.
 
 ![Three illustrated steps: install and sign in to Tailscale, accept Darren's invitation, then add the private address with port 25565 in Minecraft](images/connect-with-tailscale.svg)
 
@@ -13,8 +13,9 @@
 4. Launch **Minecraft: Java Edition 26.3**. Open **Multiplayer → Add Server**.
 5. Enter Darren's private Tailscale address **with `:25565` at the end** (for example, `100.x.y.z:25565`), then join.
 
-**Recommended resource pack:** For matching quality of life + visuals, download the [Friends Survival resource pack](https://github.com/gypsymagic236/minecraft-26.3-friends-pack/releases/latest/download/Friends-Survival-26.3.zip). 
-In Minecraft, open **Options → Resource Packs → Open Pack Folder**, put the ZIP there **without extracting it**, and move it into the active column.
+**Required resource pack:** When you join, Minecraft prompts you to download the [Friends Survival resource pack](https://github.com/gypsymagic236/minecraft-26.3-friends-pack/releases/download/v1.0.2/Friends-Survival-26.3.zip) (about 0.7 MB). Select **Yes**; Minecraft downloads and applies it automatically. You need to accept the pack to play on this server. If you previously set **Server Resource Packs** to **Disabled** for this server, change that setting to **Prompt** or **Enabled** in **Multiplayer → select server → Edit** before joining.
+
+The pack changes client visuals and sounds: clearer ore and redstone indicators, growth and crafting cues, brighter Nether block textures, and quieter rain and thunder. The Nether fog change runs on the server.
 
 > [!TIP]
 > **You're ready to play. You can stop reading here.** Everything below is an optional reference for mods, commands, and server features.
@@ -24,6 +25,10 @@ In Minecraft, open **Options → Resource Packs → Open Pack Folder**, put the 
 ## More Details
 
 **Jump to:** [Mansion Island seed guide](map.md) · [Survival progression walkthrough](survival-progression.md) · [Commands](#controls-and-commands) · [Automatic features](#things-that-happen-automatically) · [Installed packs](#server-datapacks-and-plugins)
+
+### Optional C-key zoom on TLauncher
+
+Zoom is a personal client choice; it is not needed to join. In TLauncher, select the **Fabric 26.3** version, then put the [Simple Zoom 1.4.0 Fabric JAR](https://modrinth.com/mod/zoom-simple/version/1.4.0) and [Fabric API for 26.3](https://modrinth.com/mod/fabric-api/versions?g=26.3) in the Minecraft `mods` folder (TLauncher’s **Open folder** button takes you there). Launch with Fabric 26.3 and hold **C** to zoom; scroll while holding C to adjust magnification.
 
 ### Controls and commands
 
@@ -99,7 +104,7 @@ These features run on the server. **Do not put them in your Minecraft resource-p
 | --- | --- |
 | Travel and finding places | Back, Better Waypoints (free travel), Coordinates HUD, Custom Nether Portals, Elevators, Homes, Nether Portal Coords, Spawn; SimpleTPA handles player teleports |
 | Mining, building, and farming | Armor Statues, Armored Elytra, Cauldron Concrete, Cauldron Mud, Chunk Loaders, Fast Leaf Decay, Glass Always Drops, More Effective Tools, Painting Picker, Redstone Rotation Wrench, Silk Touch Budding Amethyst, Timber, Villager Workstation Highlights, Wood Stripper, XP Bottling |
-| Drops and recipes | Double Shulker Shells, Dragon Drops, Ender Chest Always Drops, Husks Drop Sand, Kill Empty Boats, Unlock All Recipes |
+| Drops and recipes | Double Shulker Shells, Ender Chest Always Drops, Husks Drop Sand, Kill Empty Boats, Unlock All Recipes |
 | Status and convenience | AFK Display, Clumps, Durability Ping, Dynamic Lights, Graves, Health Indicator, Multiplayer Sleep, Real Time Clock, Silence Mobs, Spawn Animations, Spawning Spheres, Track Raw Statistics, Track Statistics, Villager Death Messages, Wandering Trader Announcements |
 | Server guide | Welcome Guide (the join message and `/trigger mcguide`) |
 
@@ -107,7 +112,7 @@ The server plugins are **NeatSort**, **SmartStash**, **InventorySortShortcut**, 
 
 #### Vanilla Tweaks quick guide
 
-The server has **39 [Vanilla Tweaks datapacks](https://vanillatweaks.net/picker/datapacks/)**. Most work automatically; these need a special action:
+The server has **38 [Vanilla Tweaks datapacks](https://vanillatweaks.net/picker/datapacks/)**. Most work automatically; these need a special action:
 
 - **Elevators:** Drop an Ender Pearl onto wool to make an elevator. Jump to the matching-color elevator above; crouch to go below.
 - **XP Bottling:** Right-click an enchanting table with an empty glass bottle in hand. Smelt the XP bottle in a furnace to reclaim the experience.
@@ -117,10 +122,10 @@ The server has **39 [Vanilla Tweaks datapacks](https://vanillatweaks.net/picker/
 
 ### Credits and updates
 
-The optional visual pack is customized from [Vanilla Tweaks](https://vanillatweaks.net/). See [their terms](https://vanillatweaks.net/terms/) and the `credits.txt` inside the ZIP. Server features also use [Vanilla Tweaks datapacks](https://vanillatweaks.net/picker/datapacks/) and these projects:
+The required Friends Survival visual pack is customized from [Vanilla Tweaks](https://vanillatweaks.net/). See [their terms](https://vanillatweaks.net/terms/) and the `credits.txt` inside the ZIP. Server features also use [Vanilla Tweaks datapacks](https://vanillatweaks.net/picker/datapacks/) and these projects:
 
 - **Progression and travel:** [Better Waypoints](https://modrinth.com/datapack/better-waypoints), [SimpleTPA](https://modrinth.com/plugin/simple-tpa-vexo).
 - **Inventory and mining:** [NeatSort](https://modrinth.com/project/ZgbYoHqH), [SmartStash](https://modrinth.com/project/XYbeLI5P), [VeinMiner](https://modrinth.com/project/OhduvhIc). The server's Excavating Shortcut is adapted from [Excavator Enchant](https://github.com/Derec-Mods/Excavator-Enchant/).
 - **Other conveniences:** [Spawn Animations](https://modrinth.com/project/zrzYrlm0), [Health Indicator](https://modrinth.com/project/hxaUKE37), [Clumps](https://modrinth.com/datapack/ly-clumps).
 
-When the host posts an updated pack, download the latest release and replace the old ZIP in your resource-packs folder. Your world saves and server datapacks stay on the server.
+When the host updates the required pack, Minecraft will offer the new server pack when you join. Your world saves and server datapacks stay on the server.
