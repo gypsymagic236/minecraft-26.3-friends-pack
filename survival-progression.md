@@ -60,21 +60,21 @@ This is a suggested route, not a list of mandatory prerequisites. When an option
 
 10. **Go on an ocean expedition.**
 
-   Explore shipwrecks, cold and warm ocean ruins, and coral reefs. Brush suspicious sand and gravel for archaeology loot, and search shipwrecks for buried treasure clues. The [ocean structures guide](https://help.minecraft.net/hc/en-us/articles/360059615491-Rare-Structures-in-Minecraft) has a broader overview.
+    Explore shipwrecks, cold and warm ocean ruins, and coral reefs. Brush suspicious sand and gravel for archaeology loot, and search shipwrecks for buried treasure clues. The [ocean structures guide](https://help.minecraft.net/hc/en-us/articles/360059615491-Rare-Structures-in-Minecraft) has a broader overview.
 
-   **Why here:** Ocean exploration offers varied finds and a change of pace between major boss and equipment goals. Follow any promising lead rather than treating every structure as a requirement.
+    **Why here:** Ocean exploration offers varied finds and a change of pace between major boss and equipment goals. Follow any promising lead rather than treating every structure as a requirement.
 
 11. **Conquer an Ocean Monument.**
 
-   Prepare suitable underwater equipment and potions, defeat the Elder Guardians, and collect sponges and prismarine. See the [Ocean Monument guide](https://www.minecraft.net/en-us/article/ocean-monument).
+    Prepare suitable underwater equipment and potions, defeat the Elder Guardians, and collect sponges and prismarine. See the [Ocean Monument guide](https://www.minecraft.net/en-us/article/ocean-monument).
 
-   **Why here:** Brewing and strong equipment make this a natural specialist expedition. Move it earlier if you need its rewards for a build.
+    **Why here:** Brewing and strong equipment make this a natural specialist expedition. Move it earlier if you need its rewards for a build.
 
 12. **Raid a Bastion and obtain your first Netherite upgrades.**
 
-   Obtain a Netherite Upgrade Smithing Template, gather ancient debris, and upgrade selected pieces of your main equipment. Preserve a template for duplication.
+    Obtain a Netherite Upgrade Smithing Template, gather ancient debris, and upgrade selected pieces of your main equipment. Preserve a template for duplication.
 
-   **Why here:** This gives your return to the Nether a focused equipment goal. Combine the expedition with Wither preparation where practical, but do not make a complete Netherite set a requirement for continuing.
+    **Why here:** This gives your return to the Nether a focused equipment goal. Combine the expedition with Wither preparation where practical, but do not make a complete Netherite set a requirement for continuing.
 
 13. **Defeat the Wither.**
 
