@@ -60,8 +60,9 @@ Type commands in Minecraft chat (press **T**). **Sneak** means your normal sneak
 | Waypoint markers | `/trigger waypoint` opens shared markers by default; choose **Place Waypoint** to add one for everyone. Personal markers remain available from the menu. |
 | Rename a waypoint | Stand within 4 blocks and type `/wpname <new name>`; free to rename |
 | Travel to a waypoint | Select a personal or global marker in `/trigger waypoint`; travel is free, including across dimensions |
+| Teleport near coordinates safely | Operators: `/stp <x> <z>` lands on a safe surface within 12 blocks of those coordinates in your current dimension. Example: `/stp -1768 -408` reaches the larger Pale Garden. |
 | Set and use your one home | `/trigger sethome` and `/trigger homes` |
-| Return to a previous location | `/trigger back`; after a final death it returns to the death location |
+| Return to a previous location | `/trigger back` remembers waypoint travel too; after a final death it returns to the death location |
 
 Travel commands are instant and have no cooldown. New waypoint markers are shared by default.
 
