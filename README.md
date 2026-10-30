@@ -58,6 +58,7 @@ Type commands in Minecraft chat (press **T**). **Sneak** means your normal sneak
 | Feature | What to do |
 | --- | --- |
 | Waypoint markers | `/trigger waypoint` opens shared markers by default; choose **Place Waypoint** to add one for everyone. Personal markers remain available from the menu. |
+| Set a big waypoint | Open `/trigger waypoint` → **Set Big Waypoint**. Enter X and Z in the Overworld, then choose a safe surface or detected underground biome/structure from the list. Everyone in that dimension sees the selected destination in a purple bar at the top of their screen, with a star, direction, and live distance. The next selection replaces the previous big waypoint. |
 | Rename a waypoint | Stand within 4 blocks and type `/wpname <new name>`; free to rename |
 | Travel to a waypoint | Select a personal or global marker in `/trigger waypoint`; travel is free, including across dimensions |
 | Teleport near coordinates safely | Operators: `/stp <x> <z>` lands on a safe surface within 12 blocks of those coordinates in your current dimension. Example: `/stp -1768 -408` reaches the larger Pale Garden. |
@@ -103,7 +104,7 @@ These features run on the server. **Do not put them in your Minecraft resource-p
 
 | Area | Installed features |
 | --- | --- |
-| Travel and finding places | Back, Better Waypoints (free travel), Coordinates HUD, Custom Nether Portals, Elevators, Homes, Nether Portal Coords, Spawn; SimpleTPA handles player teleports |
+| Travel and finding places | Back, Better Waypoints (free travel and shared big waypoint), Coordinates HUD, Custom Nether Portals, Elevators, Homes, Nether Portal Coords, Spawn; SimpleTPA handles player teleports |
 | Mining, building, and farming | Armor Statues, Armored Elytra, Cauldron Concrete, Cauldron Mud, Chunk Loaders, Fast Leaf Decay, Glass Always Drops, More Effective Tools, Painting Picker, Redstone Rotation Wrench, Silk Touch Budding Amethyst, Timber, Villager Workstation Highlights, Wood Stripper, XP Bottling |
 | Drops and recipes | Double Shulker Shells, Ender Chest Always Drops, Husks Drop Sand, Kill Empty Boats, Unlock All Recipes |
 | Status and convenience | AFK Display, Clumps, Durability Ping, Dynamic Lights, Graves, Health Indicator, Multiplayer Sleep, Real Time Clock, Silence Mobs, Spawn Animations, Spawning Spheres, Track Raw Statistics, Track Statistics, Villager Death Messages, Wandering Trader Announcements |
