@@ -89,14 +89,11 @@ Travel commands are instant and have no cooldown. New waypoint markers are share
 - **Sleep:** [Multiplayer Sleep](https://vanillatweaks.net/picker/datapacks/) lets one player skip the night; a sleep message appears in chat after five seconds.
 - **Status:** [Health Indicator](https://modrinth.com/datapack/health-indicator) shows health below player names. [Durability Ping](https://vanillatweaks.net/picker/datapacks/) warns about low durability on held gear and armor with an action-bar message and sound.
 - **Alerts:** [Villager Death Messages](https://vanillatweaks.net/picker/datapacks/) announces villager deaths with coordinates; [Wandering Trader Announcements](https://vanillatweaks.net/picker/datapacks/) reports nearby arrivals; [AFK Display](https://vanillatweaks.net/picker/datapacks/) grays out idle players.
-- **Animations:** [Spawn Animations](https://modrinth.com/datapack/spawn-animations) makes mobs emerge with sounds.
 - **After a final death:** [Graves](https://vanillatweaks.net/picker/datapacks/) saves your dropped items in a grave where you died; see the Vanilla Tweaks quick guide below to retrieve them.
 - **Experience:** You keep all your XP when you die. [Clumps](https://modrinth.com/datapack/ly-clumps) combines nearby XP orbs to reduce lag. Instant pickup is off so Mending works normally.
 - **Lighting:** [Dynamic Lights](https://modrinth.com/datapack/dynamic-lights-creepermeyt) lets held torches and other glowing items light up their surroundings for everyone.
 
-| [Health Indicator](https://modrinth.com/datapack/health-indicator) | [Spawn Animations](https://modrinth.com/datapack/spawn-animations) |
-| :---: | :---: |
-| <a href="https://modrinth.com/datapack/health-indicator" target="_blank" rel="noopener noreferrer"><img src="https://cdn.modrinth.com/data/hxaUKE37/images/a851f319889e4eccdf8884fce0a294bcb54bfeaa.jpeg" alt="Health points displayed below a player's name" width="220"></a> | <a href="https://modrinth.com/datapack/spawn-animations" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/X8A0UY9.gif" alt="A Stray digging out of the ground as it spawns" width="220"></a> |
+<a href="https://modrinth.com/datapack/health-indicator" target="_blank" rel="noopener noreferrer"><img src="https://cdn.modrinth.com/data/hxaUKE37/images/a851f319889e4eccdf8884fce0a294bcb54bfeaa.jpeg" alt="Health points displayed below a player's name" width="220"></a>
 
 ### Server datapacks and plugins
 
@@ -107,7 +104,7 @@ These features run on the server. **Do not put them in your Minecraft resource-p
 | Travel and finding places | Back, Better Waypoints (free travel and shared big waypoint), Coordinates HUD, Custom Nether Portals, Elevators, Homes, Nether Portal Coords, Spawn; SimpleTPA handles player teleports |
 | Mining, building, and farming | Armor Statues, Armored Elytra, Cauldron Concrete, Cauldron Mud, Chunk Loaders, Fast Leaf Decay, Glass Always Drops, More Effective Tools, Painting Picker, Redstone Rotation Wrench, Silk Touch Budding Amethyst, Timber, Villager Workstation Highlights, Wood Stripper, XP Bottling |
 | Drops and recipes | Double Shulker Shells, Ender Chest Always Drops, Husks Drop Sand, Kill Empty Boats, Unlock All Recipes |
-| Status and convenience | AFK Display, Clumps, Durability Ping, Dynamic Lights, Graves, Health Indicator, Multiplayer Sleep, Real Time Clock, Silence Mobs, Spawn Animations, Spawning Spheres, Track Raw Statistics, Track Statistics, Villager Death Messages, Wandering Trader Announcements |
+| Status and convenience | AFK Display, Clumps, Durability Ping, Dynamic Lights, Graves, Health Indicator, Multiplayer Sleep, Real Time Clock, Silence Mobs, Spawning Spheres, Track Raw Statistics, Track Statistics, Villager Death Messages, Wandering Trader Announcements |
 | Server guide | Welcome Guide (the join message and `/trigger mcguide`) |
 
 The server plugins are **NeatSort**, **SmartStash**, **InventorySortShortcut**, **VeinMiner**, **Excavating Shortcut**, **SimpleTPA**, **NeverEnoughRecipes** (with AbyssalLib), **KeepDeathXp**, and the waypoint renaming helper. The old Excavating enchant no longer appears as a new enchant. All sorting is manual. The table above covers the main commands and controls; other packs mainly change recipes, drops, displays, or automatic behavior.
@@ -128,6 +125,6 @@ The required Friends Survival visual pack is customized from [Vanilla Tweaks](ht
 
 - **Progression and travel:** [Better Waypoints](https://modrinth.com/datapack/better-waypoints), [SimpleTPA](https://modrinth.com/plugin/simple-tpa-vexo).
 - **Inventory and mining:** [NeatSort](https://modrinth.com/project/ZgbYoHqH), [SmartStash](https://modrinth.com/project/XYbeLI5P), [VeinMiner](https://modrinth.com/project/OhduvhIc). The server's Excavating Shortcut is adapted from [Excavator Enchant](https://github.com/Derec-Mods/Excavator-Enchant/).
-- **Other conveniences:** [Spawn Animations](https://modrinth.com/project/zrzYrlm0), [Health Indicator](https://modrinth.com/project/hxaUKE37), [Clumps](https://modrinth.com/datapack/ly-clumps).
+- **Other conveniences:** [Health Indicator](https://modrinth.com/project/hxaUKE37), [Clumps](https://modrinth.com/datapack/ly-clumps).
 
 When the host updates the required pack, Minecraft will offer the new server pack when you join. Your world saves and server datapacks stay on the server.
