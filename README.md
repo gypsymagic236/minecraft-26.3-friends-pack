@@ -83,7 +83,7 @@ Travel commands are instant and have no cooldown. New waypoint markers are share
 
 | Feature | What to do |
 | --- | --- |
-| Player guide | `/trigger mcguide` |
+| Player guide | `/trigger mcguide` shows the in-game welcome guide again, including the Player Loader recipe, farm setup, lever controls and status colors. |
 | Toggle the coordinates HUD | `/trigger ch_toggle`; `/trigger ch_help` shows its options |
 
 ### Things that happen automatically
