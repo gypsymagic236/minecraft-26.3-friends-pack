@@ -49,6 +49,8 @@ Type commands in Minecraft chat (press **T**). **Sneak** means your normal sneak
 | VeinMiner | **Sneak while mining ore**; up to 32 connected ore blocks; each block uses tool durability |
 | Excavating | Type **`/excavate`** to toggle mining with any pickaxe or shovel. It starts at 3 × 3 × 3. Set the size with **`/excavate size <w> <h> <d>`**; for example, `/excavate size 4 10 1`. The grey hints mean width, height, and depth. Each dimension can be 1–32, with a maximum of 512 blocks total. A cyan outline previews the area extending into the surface. Your size is saved; the toggle resets to off when you leave. Sneak to use VeinMiner instead. |
 | Area placement | Type **`/placearea`** to toggle placing ordinary full blocks from your inventory. It starts at 3 × 3 × 1. Set the size with **`/placearea size <w> <h> <d>`**; for example, `/placearea size 16 16 2`. The same 512-block limit applies. Place one block normally to fill the green outlined area outward from the face. It uses one matching block from your inventory for each extra placement and skips occupied or protected spaces. Sneak to place just one block. |
+| Offline XP farm | Craft a **Player Loader** with a lodestone in the center, iron ingots on the four edges and redstone in the four corners. Place it at the farm’s AFK spot, with dark spawnable floors **more than 24 and up to 64 blocks away**. It works with everyone offline and holds up to **32 living mobs** for you to kill for normal XP. It keeps **9 × 9 chunks** running; keep transport and the holding chamber inside that area. Only **two loaders** are allowed across the server. |
+| Loader on/off and status | Attach a **lever directly to the Player Loader**: on enables spawning, off stops new spawning while keeping held mobs and transport running. Without a lever it is enabled. Right-click only shows status, including while sneaking. A bright label and particles show **green ON**, **amber FULL/PAUSED** when capped or waiting, and **red OFF**. The glow does not light the farm. `/playerloader` explains the recipe; `/playerloader status` shows your loaders and counts. |
 | Timber | Break a tree with an axe **while standing** to fell it; leaves clear and saplings drop as items |
 
 <a href="https://modrinth.com/project/OhduvhIc" target="_blank" rel="noopener noreferrer"><img src="https://cdn.modrinth.com/data/OhduvhIc/images/f4c0ad7fa3b8b579753c1f757e80151798717c68.gif" alt="VeinMiner breaking a connected ore vein" width="340"></a>
@@ -63,7 +65,7 @@ Type commands in Minecraft chat (press **T**). **Sneak** means your normal sneak
 | Travel to a waypoint | Select a personal or global marker in `/trigger waypoint`; travel is free, including across dimensions |
 | Teleport near coordinates safely | Operators: `/stp <x> <z>` lands on a safe surface within 12 blocks of those coordinates in your current dimension. Example: `/stp -1768 -408` reaches the larger Pale Garden. |
 | Set and use your one home | `/trigger sethome` and `/trigger homes` |
-| Return to a previous location | `/trigger back` remembers waypoint travel too; after a final death it returns to the death location |
+| Return to a previous location | `/trigger back` returns to the departure point of your latest home or waypoint teleport; a newer death provides the death return. New travel replaces an older pending death return. |
 
 Travel commands are instant and have no cooldown. New waypoint markers are shared by default.
 
@@ -107,7 +109,7 @@ These features run on the server. **Do not put them in your Minecraft resource-p
 | Status and convenience | AFK Display, Clumps, Durability Ping, Dynamic Lights, Graves, Health Indicator, Multiplayer Sleep, Real Time Clock, Silence Mobs, Spawning Spheres, Track Raw Statistics, Track Statistics, Villager Death Messages, Wandering Trader Announcements |
 | Server guide | Welcome Guide (the join message and `/trigger mcguide`) |
 
-The server plugins are **NeatSort**, **SmartStash**, **InventorySortShortcut**, **VeinMiner**, **Excavating Shortcut**, **SimpleTPA**, **NeverEnoughRecipes** (with AbyssalLib), **KeepDeathXp**, and the waypoint renaming helper. The old Excavating enchant no longer appears as a new enchant. All sorting is manual. The table above covers the main commands and controls; other packs mainly change recipes, drops, displays, or automatic behavior.
+The server plugins are **NeatSort**, **SmartStash**, **InventorySortShortcut**, **VeinMiner**, **Excavating Shortcut**, **SimpleTPA**, **NeverEnoughRecipes** (with AbyssalLib), **KeepDeathXp**, **PlayerLoader**, and the waypoint renaming helper. The old Excavating enchant no longer appears as a new enchant. All sorting is manual. The table above covers the main commands and controls; other packs mainly change recipes, drops, displays, or automatic behavior.
 
 #### Vanilla Tweaks quick guide
 
